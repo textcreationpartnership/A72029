@@ -1,0 +1,3901 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ayme for Finsburie archers. Or An alphabetical table of the names of euerie marke within the same fields with their true distances both by the map and dimensuration by the line. Published for the ease of the skilfull, and behoofe of the yong beginners in the famous exercise of archerie, by E.B. and I.I.</title>
+            <author>E. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1601</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 62 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72029</idno>
+            <idno type="STC">STC 1025.3</idno>
+            <idno type="STC">ESTC S124682</idno>
+            <idno type="EEBO-CITATION">99898799</idno>
+            <idno type="PROQUEST">99898799</idno>
+            <idno type="VID">151888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2000:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ayme for Finsburie archers. Or An alphabetical table of the names of euerie marke within the same fields with their true distances both by the map and dimensuration by the line. Published for the ease of the skilfull, and behoofe of the yong beginners in the famous exercise of archerie, by E.B. and I.I.</title>
+                  <author>E. B.</author>
+                  <author>ʻA. ʻA., Duktūr.</author>
+               </titleStmt>
+               <extent>[8], 107, [9] p., plate : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by R.F. and are to be sold at the signe of the Frier in Grubstreet by F. Sergeant,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1601.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final four leaves consist of: "A table of the names of all the markes in Finsburie fieldes".</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1475-1640 reel 2000 lacks leaf D2.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Archery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151888:1"/>
+            <p>AYME FOR FINSBVRIE ARCHERS. Or an Alphabetical Table of the names of euerie Marke within the <hi>ſame fields, with their true diſtances both by the Map and dimenſu<g ref="char:EOLhyphen"/>ration by the line.</hi> Publiſhed for the eaſe of the skilfull, and be<g ref="char:EOLhyphen"/>hoofe of the yong beginners in the fa<g ref="char:EOLhyphen"/>mous exerciſe of Archerie, by E. B. and I. I. Corrected and amended of diuerſe errours with addition of thoſe Markes which wanted in the former prin<g ref="char:EOLhyphen"/>ted Bookes.</p>
+            <p>Imprinted at London by <hi>R. F.</hi> and are <hi>to be ſold at the ſigne of the Frier in Grubſtreet by</hi> F. Sergeant. 1601.</p>
+         </div>
+         <div type="intruder_illustration">
+            <pb facs="tcp:151888:2"/>
+            <p>
+               <figure>
+                  <figDesc>later engraving of a man in Restoration-era clothing and wig</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151888:2"/>
+            <head>To al that affect the famous exerciſe of ARCHERIE <hi>frequenting Finſburie</hi> fieldes.</head>
+            <p>SHooting in the long bow being of it ſelfe very laudable, and our En<g ref="char:EOLhyphen"/>gliſh nation in all ages ſurpaſſing therein all others, yea neither the <hi>Ge<g ref="char:EOLhyphen"/>tes, Seythes, Parthians, Sarmathians, Armiaſpes</hi> famous for that quality, nor any other people could become equall with Engliſh Archers. And yet (a mat<g ref="char:EOLhyphen"/>ter to be lamented) this laudable exer<g ref="char:EOLhyphen"/>ciſe of late dayes hath become cold in moſt places of this land, famous <hi>Londo<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> retaining the moſt arde<g ref="char:cmbAbbrStroke">̄</g>t deſire to main<g ref="char:EOLhyphen"/>taine the ſame, as appeareth by the daily concourſe of Citizens, to their great commendations, in diuerſe companies in the conuenient fields about the citie, but moſt eſpecially in that choiſe place <hi>Finſ<g ref="char:EOLhyphen"/>burie,</hi>
+               <pb facs="tcp:151888:3"/> moſt eſpecially garniſhed with many beautifull Markes in this little Treatiſe Alphabetically mentioned, whereby the benefactors therein ſhall haue perpetuall memorie recorded by the titles of their ſeuerall erections.</p>
+            <p>And for that euery hand ought to bring ſome portion of helpe towards the preſeruation and increaſe of ſo commen<g ref="char:EOLhyphen"/>dable actiuitie, we haue (by the helpe of our friends) caſt in alſo our mite, wiſhing it to worke a continuing in the old, and a growing goodwill in ſuch yong beginners as would become skilfull in this most acceptable qualitie, for whoſe ſakes this litle worke is reuiewed, reuiued and re<g ref="char:EOLhyphen"/>publiſhed, with ſuch neceſſary, eaſie, and helpfull obſeruations as may ſeeme beſt to ſatisfie thoſe that are deſirous to come to knowledge in the Markes.</p>
+         </div>
+         <div type="directions_for_use">
+            <pb facs="tcp:151888:3"/>
+            <head>Rules touching the vſe of the Treatiſe.</head>
+            <p n="1">1 First, you must note, that ſun<g ref="char:EOLhyphen"/>drie Markes haue two or three wordes for their names, looke for the marke alwaies in the firſt word, as in the <hi>Kings Mace,</hi> looke not for <hi>Mace</hi> but for <hi>Kings:</hi> alſo the <hi>Houſe of Lancaſter,</hi> looke for <hi>Houſe</hi> not for <hi>Lancaſter,</hi> and ſo in the reſt.</p>
+            <p n="2">2 And it is further to be noted, that the firſt number ſheweth the ſcores, the ſecond the yards: you muſt ſhoote long ayme, becauſe this is ſet downe by mea<g ref="char:EOLhyphen"/>ſure of the line</p>
+            <p n="3">3 Againe you muſt note, that wee haue ſet downe the markes to be taken all going into the fields, and if you be coming homeward, looke for the marke you ſhoote at, and not for the marke you ſtand at. And we haue placed from
+<pb facs="tcp:151888:4"/> euery marke all the marks from the left hand to the right, leauing out none from 9. ſcore to 18. or 19. ſcore. And when a marke is found along a banke, you muſt alwayes looke for the marke from the Weſt towards the Eaſt.</p>
+            <p n="4">4 Alſo for the aide of yong ſhooters wee: haue ſet downe in the ende of the booke a Table of the names of all the marks, with direction in what page to find them, for the eaſe of thoſe that are vnacquainted with the names of the markes.</p>
+            <p>For the better aduertiſement of ſuch as are not acquainted with the order of the game and cuſtome of the field, wher<g ref="char:EOLhyphen"/>by often ariſe controuerſies, and diuerſe times grow raſh and vnaduiſed othes, to the derogation of Gods glory, we haue thought it good to ſet downe ſuch orders as are ſitteſt to be obſerued in this ex<g ref="char:EOLhyphen"/>erciſe.</p>
+            <pb facs="tcp:151888:4"/>
+            <p n="1">1 Firſt for the finding of your marke, it muſt be within euery mans reach. Al<g ref="char:EOLhyphen"/>ſo the preciſe naming of your marke preuenteth much cauill.</p>
+            <p n="2">2 Secondly, for whites you may haue as many as you will, ſo they be all for<g ref="char:EOLhyphen"/>wards, and if you ſhoote at anie looſe white, and it be ſtriken out of ſight, it is no marke.</p>
+            <p n="3">3 Thirdly, for the highest of ſtakes, if the wood be aboue the pin, you are to meaſure at the wood, although the pin hath bene put in for the ſame purpoſe.</p>
+            <p n="4">4 Fourthly, if you finde a buſh or a blacke, whatſoeuer you finde higheſt in it, being within the compaſſe of the marke, you are to take it for the height.</p>
+            <p n="5">5 Fiftly, for all trees you are to mea<g ref="char:EOLhyphen"/>ſure at foote and pole, except in the na<g ref="char:EOLhyphen"/>ming of it you ſay, at the naile in ſuch a tree, or hole in ſuch a tree, or being a tree of ſo ſmall height, that you may
+<pb facs="tcp:151888:5"/> reach the top of it with halfe your bowe, then you may take the higheſt.</p>
+            <p n="6">6 Sixtly, if there be ſo nigh a ſhoote that it cannot be giuen by the contrarie ſide, or by another companie, then the better of them two is to win the ſhoote at the next marke, and not to let it lye dead to the aduantage of the contrarie ſide. If in meaſuring of the ſhoote, by haſte the marke is ſtirred, he is to loſe the ſhoote that meaſureth it.</p>
+            <p n="7">7 Seuenthly, when you come to the marke and claime two, and the contrary ſides draw their arrowes, &amp; when your mate comes he ſaith his would win too, you are to win no more then you claime.</p>
+            <p n="8">8 Laſtly, if you name one marke and ſhoote at another, you are to loſe your ſhoot, and they are to follow at the mark named.</p>
+            <closer>
+               <signed>I. N.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_archery_targets">
+            <pb n="1" facs="tcp:151888:5"/>
+            <list>
+               <head>A.</head>
+               <item>ABC next Iſlington to the Lion 11.
+<list>
+                     <item>Saplin 11, 5.</item>
+                  </list>
+               </item>
+               <item>Alhallowes to the Cony 11.
+<list>
+                     <item>Rogers ſtake 12.</item>
+                     <item>Sir Rowland 13.</item>
+                     <item>Marſhes ſtake 14. 5.</item>
+                     <item>Fullers ſtake 16, 14.</item>
+                     <item>Dayes deed 18, 17.</item>
+                     <item>Weeping croſſe 13, 12.</item>
+                     <item>Saunders backe 15, 11.</item>
+                     <item>Lockleys mouth 17, 8.</item>
+                     <item>Norington 20, 7.</item>
+                  </list>
+               </item>
+               <item>Allowayes houſe to Martins May-floure 11, 10.
+<list>
+                     <item>Greenes ſtake 12, 6.</item>
+                     <item>Swan harneſtman 14, 6.</item>
+                     <item>Buſh by the Swan 14, 18.</item>
+                     <item>Goldſmiths ſtake 16, 17.</item>
+                     <item>Wolues head 13, 19.</item>
+                     <item>Brownes ſtake 10, 12.</item>
+                     <item>Mab 17, 2.</item>
+                     <item>Aſpinals Ape 14, 10.</item>
+                     <item>Flint 12, 12.</item>
+                     <item>Yong Powell 10, 2.</item>
+                     <item>Star 16, 6.</item>
+                     <item>Robinſons arme 16, 9.</item>
+                     <item>Hodges pleaſure 16, 18.</item>
+                     <pb n="2" facs="tcp:151888:6"/>
+                     <item>Cuckoe 17, 13.</item>
+                     <item>Barlow 18, 13.</item>
+                     <item>Lion 17, 13.</item>
+                     <item>Buſh vnder buſh 16, 8.</item>
+                     <item>Mercers maid 14, 17.</item>
+                     <item>Flying horſe 13, 10.</item>
+                     <item>Maidens bluſh 12, 3.</item>
+                     <item>Doues Redbreſt 10, 15.</item>
+                     <item>Kempton 17, 12.</item>
+                     <item>Houſe of honeſtie 16, 3.</item>
+                     <item>Snowball 15, 2.</item>
+                     <item>Quinies faulchin 19.</item>
+                     <item>Siluer doue 15, 18.</item>
+                     <item>Kings mace 14, 10.</item>
+                     <item>Boxes leg 12, 16.</item>
+                     <item>Clothworkers handle 11, 12.</item>
+                     <item>Huls pumpe 9, 18.</item>
+                  </list>
+               </item>
+               <item>Amias backe to the Diall 16, 12.
+<list>
+                     <item>Nelſon 13, 10.</item>
+                     <item>Lanterne 10, 6.</item>
+                     <item>Martins May-floure 14, 3.</item>
+                     <item>Greenes ſtake 15.</item>
+                     <item>Swan harneſtman 17</item>
+                     <item>Wolues head 16, 10.</item>
+                     <item>Brownes ſtake 13.</item>
+                     <item>Egpie 9, 7.</item>
+                     <item>Mab 19.</item>
+                     <pb n="3" facs="tcp:151888:6"/>
+                     <item>Aſpinals ape 16, 7.</item>
+                     <item>Flint 14, 5.</item>
+                     <item>Yong Powell 11, 11.</item>
+                     <item>Star 17, 15.</item>
+                     <item>Robinſons arme 17, 17.</item>
+                     <item>Lion 18, 2.</item>
+                     <item>Buſh vnder buſh 16, 14.</item>
+                     <item>Mercers maid 15, 2.</item>
+                     <item>Flying horſe 13, 14.</item>
+                     <item>Maidens bluſh 12.</item>
+                     <item>Doues Redbreſt 10, 9.</item>
+                     <item>Kempton 16, 6.</item>
+                     <item>Houſe of honeſtie 14, 17.</item>
+                     <item>Snowball 13, 7.</item>
+                     <item>Blacke Nan 17, 18.</item>
+                     <item>Quinies faulchin 17, 2.</item>
+                     <item>Siluer doue 14.</item>
+                     <item>Kings mace 12, 8.</item>
+                     <item>Boxes leg 11, 2.</item>
+                     <item>Clothworkers handle 10.</item>
+                  </list>
+               </item>
+               <item>Archdale to Hare in the vale 14, 9.
+<list>
+                     <item>Stone by the pond 15.</item>
+                     <item>Three cranes 11, 1.</item>
+                     <item>Bores head 11, 1.</item>
+                     <item>Bricklayers Finiall 13, 10.</item>
+                     <item>Stone by Parkins 15, 11.</item>
+                     <item>Parkins hare 15, 14.</item>
+                     <pb n="4" facs="tcp:151888:7"/>
+                     <item>Graueleſſe lambe 17.</item>
+                     <item>Camell 14, 14.</item>
+                     <item>Tree by the Camell 13. 3.</item>
+                     <item>Majors marigold 11.</item>
+                     <item>Bings ſtake 10. 12.</item>
+                     <item>Robinſon 12, 18.</item>
+                     <item>Sheffe of arrowes 17.</item>
+                     <item>Cottons ſtake 16, 10.</item>
+                     <item>Watergap 13, 4.</item>
+                     <item>Mill 12, 5.</item>
+                     <item>Wolues head 13, 4.</item>
+                     <item>Brownes ſtake 15, 4.</item>
+                  </list>
+               </item>
+               <item>Aſpinals Ape to the Goldſmith 10, 16.
+<list>
+                     <item>Watergap 10, 9.</item>
+                     <item>Brands boy 18, 2.</item>
+                     <item>Bings ſtake 15, 11.</item>
+                     <item>Robinſon 13, 10.</item>
+                     <item>Sheffe of arrowes 13, 9.</item>
+                     <item>Hales arbor 15, 8.</item>
+                     <item>Perins paſt-bruſh 13, 17.</item>
+                     <item>Rainbow 17, 12.</item>
+                     <item>Cottons ſtake 10, 17.</item>
+                     <item>Wards ſtake 10, 10.</item>
+                     <item>Swans ſtake 11.</item>
+                     <item>Hodges Hart 12. 4.</item>
+                     <item>Stirrops ſtake 12, 17.</item>
+                     <item>Martins munkie 14.</item>
+                     <pb n="5" facs="tcp:151888:7"/>
+                     <item>Whitbrooke 15, 14.</item>
+                     <item>Cat and fiddle 17, 13.</item>
+                     <item>Crooked ſaplin 18, 12.</item>
+                     <item>Pollins ſtake 16, 10.</item>
+                     <item>Corniſh chough 15.</item>
+                     <item>Bee-hiue 13, 2.</item>
+                     <item>Humfrey Iames 11, 12.</item>
+                     <item>Bakers boy 10, 11.</item>
+                     <item>Barlow 10, 2.</item>
+                     <item>Lion 9, 15.</item>
+                     <item>Popes head 13, 17.</item>
+                     <item>Cocke 15, 3.</item>
+                     <item>Nightingale 17, 10.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Bailies bay to the tree by the gate 18, 10.
+<list>
+                     <item>Pillar of Paules 10, 12.</item>
+                     <item>Carington 13, 12.</item>
+                     <item>Blacke boy 13, 10.</item>
+                  </list>
+               </item>
+               <item>Bakers boy to Mab 11, 9.
+<list>
+                     <item>Carters whip 12, 6.</item>
+                     <item>Kingſton bridge 14.</item>
+                     <item>Parkes his pleaſure 15, 10.</item>
+                     <item>Cottons ſtake 18, 10.</item>
+                     <item>Wards ſtake 16, 12.</item>
+                     <item>Swans ſtake 15, 4.</item>
+                     <item>Perins paſt-bruſh 18, 19.</item>
+                     <item>Hodges Hart 14. 6.</item>
+                     <item>Stirrop 14, 7.</item>
+                     <pb n="6" facs="tcp:151888:8"/>
+                     <item>Martins monkie 14, 12.</item>
+                     <item>Whitbrooke 14, 18.</item>
+                     <item>Cat and fiddle 15, 4.</item>
+                     <item>Diogenes 17, 8.</item>
+                     <item>Robinſons leg 15, 9.</item>
+                     <item>Bailies bay 14, 4.</item>
+                     <item>Brewers apron 13, 11.</item>
+                     <item>Crooked ſaplin 11, 14.</item>
+                  </list>
+               </item>
+               <item>Banks ſtake to the Diall 17, 3.
+<list>
+                     <item>Nelſon 14, 10.</item>
+                     <item>Martins May-floure 15, 18.</item>
+                     <item>Greenes ſtake 17, 8.</item>
+                     <item>Lanterne 11, 15.</item>
+                     <item>Brownes ſtake 17.</item>
+                     <item>Egpie 13, 16.</item>
+                     <item>Yong Powell 17, 1.</item>
+                     <item>Sea Griphon 13, 14.</item>
+                     <item>Gate by Hariſon 13, 14.</item>
+                     <item>Hariſon 12, 16.</item>
+                     <item>Watſon 10, 16.</item>
+                     <item>Goſſon 9, 9.</item>
+                     <item>Houſe of Yorke 11, 2.</item>
+                     <item>Vpper gardiner 11, 16.</item>
+                     <item>Maidens bluſh 17, 8.</item>
+                     <item>Doues Redbreſt 16.</item>
+                     <item>Quinies pillar 13, 18.</item>
+                     <item>Rams head 12, 15.</item>
+                     <pb n="7" facs="tcp:151888:8"/>
+                     <item>Huls pumpe 13, 5.</item>
+                     <item>Clothworkers handle 14, 8.</item>
+                     <item>Boxes leg 15, 3.</item>
+                     <item>Kingsmace 16, 10.</item>
+                     <item>Siluer doue 17, 9.</item>
+                     <item>Snowball 17, 10.</item>
+                  </list>
+               </item>
+               <item>Barlow to Mab 11, 10.
+<list>
+                     <item>Carters whip 12, 14.</item>
+                     <item>Kingſton bridge 14, 5.</item>
+                     <item>Parkes his pleaſure 15, 16.</item>
+                     <item>Cottons ſtake 18, 15.</item>
+                     <item>Wards ſtake 17, 1.</item>
+                     <item>Swans ſtake 16.</item>
+                     <item>Hodges Hart 15.</item>
+                     <item>Stirrops ſtake 15, 5.</item>
+                     <item>Martins munkie 15, 11.</item>
+                     <item>Whitbrooke 16.</item>
+                     <item>Cat and fiddle 16, 15.</item>
+                     <item>Diogenes 19.</item>
+                     <item>Robinſons leg 16, 16.</item>
+                     <item>Bailies bay 15, 10.</item>
+                     <item>Brewers apron 15.</item>
+                     <item>Crooked ſaplin 13, 3.</item>
+                     <item>Pollins ſtake 10, 8.</item>
+                     <item>Cawdries coffer 12.</item>
+                     <item>Baſsings hall 10, 12.</item>
+                     <item>Boxes arme 10, 7.</item>
+                  </list>
+               </item>
+               <pb n="8" facs="tcp:151888:9"/>
+               <item>Baſsings hall to the Bakers boy 11.
+<list>
+                     <item>Humfrey Iames 11, 7.</item>
+                     <item>Stake in the plaine 14, 4.</item>
+                     <item>Bee-hiue 12.</item>
+                     <item>Corniſh chough 13, 4.</item>
+                     <item>Pollins ſtake 14, 10.</item>
+                     <item>Crooked ſaplin 16, 15.</item>
+                     <item>Hariſons ſaplin 11, 16.</item>
+                     <item>Three ſaplins 10, 16.</item>
+                  </list>
+               </item>
+               <item>Beares head to the crooked tree 12, 10.
+<list>
+                     <item>Hariſons ſaplin 12.</item>
+                     <item>Two buſhes 13, 4.</item>
+                  </list>
+               </item>
+               <item>Bee-hiue to Daines delight 17, 16.
+<list>
+                     <item>Plaice 15, 17.</item>
+                     <item>Diogenes 13, 8.</item>
+                     <item>Stirrop 12, 5.</item>
+                     <item>Martins munkie 12.</item>
+                     <item>Whitbrooke 11, 16.</item>
+                     <item>Cat and fiddle 11, 12.</item>
+                     <item>Robinſons leg 11, 8.</item>
+                     <item>Bailies bay 9, 17.</item>
+                     <item>Brewers apron 9, 10.</item>
+                     <item>Stake at the ſtile 16, 16.</item>
+                     <item>Target tree 16, 7.</item>
+                     <item>Beares head 15.</item>
+                  </list>
+               </item>
+               <item>Beſwikes ſtone to the Swan 10, 4.
+<list>
+                     <item>Goldſmiths ſtake 13, 3.</item>
+                     <pb n="9" facs="tcp:151888:9"/>
+                     <item>Watergap 17, 17.</item>
+                     <item>Mill 15, 15.</item>
+                     <item>Wolues head 11, 3.</item>
+                     <item>Mab 16, 12.</item>
+                     <item>Aſpinals ape 14, 9.</item>
+                     <item>Flint 12, 15.</item>
+                     <item>Yong Powell 11, 2.</item>
+                     <item>Star 16, 16.</item>
+                     <item>Robinſons arme 17, 15.</item>
+                     <item>Hodges pleaſure 18, 10.</item>
+                     <item>Mercers maid 18.</item>
+                     <item>Flying horſe 17.</item>
+                     <item>Maidens bluſh 16.</item>
+                     <item>Doues Redbreſt 15.</item>
+                     <item>Quinies piller 13, 18.</item>
+                     <item>Boxes leg 18.</item>
+                     <item>Clothworkers handle 16, 15.</item>
+                     <item>Huls pumpe 15.</item>
+                     <item>Rams head 13, 10.</item>
+                     <item>Vpper gardiner 12, 2.</item>
+                  </list>
+               </item>
+               <item>Bings ſtake to the bores head 12, 9.
+<list>
+                     <item>Bricklayers finiall 13.</item>
+                     <item>Turkes ſtake 15, 10.</item>
+                     <item>Pigeon 11.</item>
+                     <item>Perins paſt-bruſh. 11, 17.</item>
+                     <item>Rainbow 14, 15.</item>
+                     <item>Martins monkie 18, 2.</item>
+                     <pb n="10" facs="tcp:151888:10"/>
+                     <item>Stirrops ſtake 17, 2.</item>
+                     <item>Hodges Hart 15, 17.</item>
+                     <item>Swans ſtake 13, 8.</item>
+                     <item>Wards ſtake 10, 17.</item>
+                  </list>
+               </item>
+               <item>Blacke Nan to Quinies pillar 12, 13.
+<list>
+                     <item>Doues Redbreſt 13.</item>
+                     <item>Maidens bluſh 13, 18.</item>
+                     <item>Flying horſe 14, 19.</item>
+                     <item>Mercers maid 15, 17.</item>
+                     <item>Buſh vnder buſh 16, 19.</item>
+                     <item>Lion 18.</item>
+                     <item>Popes head 16, 8.</item>
+                     <item>Cocke 15, 10.</item>
+                     <item>Nightingale 14.</item>
+                     <item>Boxes arme 12, 16.</item>
+                     <item>Baſsings hall 14, 12.</item>
+                     <item>Cawdries coffer 16, 13.</item>
+                  </list>
+               </item>
+               <item>Bores head to long Meg 15, 10.
+<list>
+                     <item>Saplin by the Lion 15, 16.</item>
+                     <item>Lion 16, 10.</item>
+                     <item>Pigeon 13, 18.</item>
+                     <item>Saplin by the Pigeon 13, 7.</item>
+                     <item>Hornebooke 17, 2.</item>
+                     <item>Graueleſſe lambe 12, 10.</item>
+                     <item>Camell 11, 4.</item>
+                     <item>Tree by the Camell 10, 10.</item>
+                     <item>Majors marigold 10, 3.</item>
+                     <pb n="11" facs="tcp:151888:10"/>
+                     <item>Hales arbor 18, 11.</item>
+                     <item>Sheffe of arrowes 17, 18.</item>
+                  </list>
+               </item>
+               <item>Boxes arme to the Bakers boy 10, 15.
+<list>
+                     <item>Stake in the plaine 14, 5.</item>
+                     <item>Humfrey Iames 11, 13.</item>
+                     <item>Bee hiue 12, 13.</item>
+                     <item>Corniſh chough 14, 6.</item>
+                     <item>Pollin 15, 12.</item>
+                     <item>Crooked ſaplin 18.</item>
+                     <item>Hariſons ſaplin 13.</item>
+                     <item>Three ſaplins 12.</item>
+                     <item>Simſons ſaplin 11, 7.</item>
+                  </list>
+               </item>
+               <item>Boxes leg to Hariſons felowſhip 11, 6.
+<list>
+                     <item>Gate by Hariſon 11, 16.</item>
+                     <item>Sea-Griphon 13, 7.</item>
+                     <item>Egpie 15, 8.</item>
+                     <item>Yong Powell 13, 18.</item>
+                     <item>Flint 16, 11.</item>
+                     <item>Aſpinals Ape 18, 2.</item>
+                     <item>Star 18.</item>
+                     <item>Robinſons arme 16, 17.</item>
+                     <item>Hodges pleaſure 16, 5.</item>
+                     <item>Cuckoe 15, 7.</item>
+                     <item>Stake in the plaine 18, 11.</item>
+                     <item>Flying horſe 9, 5.</item>
+                     <item>Mercers maid 10, 9.</item>
+                     <item>Buſh vnder buſh 12.</item>
+                     <pb n="12" facs="tcp:151888:11"/>
+                     <item>Lion 13, 8.</item>
+                     <item>Barlow 14, 11.</item>
+                     <item>Bakers boy 15, 17.</item>
+                     <item>Humfrey Iames 18.</item>
+                     <item>Popes head 13, 10.</item>
+                     <item>Cocke 13, 5.</item>
+                     <item>Nightingale 13.</item>
+                     <item>Boxes arme 13.</item>
+                     <item>Baſsings hall 15, 2.</item>
+                     <item>Cawdries coſſer 17, 5.</item>
+                  </list>
+               </item>
+               <item>Brands boy to the Bores head 9, 10.
+<list>
+                     <item>Bricklayers finiall 10, 4.</item>
+                     <item>Turkes ſtake 13, 9.</item>
+                     <item>Thurloes roſe 17, 12.</item>
+                     <item>Long Meg 18, 10.</item>
+                     <item>Saplin by the Lion 18, 6.</item>
+                     <item>Lion 18, 3.</item>
+                     <item>
+                        <hi>Pigeon.</hi> 11. 2.</item>
+                     <item>Hornebooke 11, 5.</item>
+                     <item>Hales arbor 10.</item>
+                     <item>Perins paſt bruſh 14, 11.</item>
+                     <item>Rainbow 17, 4.</item>
+                     <item>Cottons ſtake 10, 18.</item>
+                     <item>Wards ſtake 13, 13.</item>
+                     <item>Swans ſtake 16, 8.</item>
+                  </list>
+               </item>
+               <item>Brewers apron to the Pillar of Pauls 11, 13
+<list>
+                     <item>Carington 14.</item>
+                     <item>Blacke boy 13, 12.</item>
+                  </list>
+               </item>
+               <pb n="13" facs="tcp:151888:11"/>
+               <item>Bricklayer to Saint Giles 10, 6.
+<list>
+                     <item>Robinhood 9, 9.</item>
+                     <item>Yomanſon 17, 8.</item>
+                     <item>Vent ſtone 16.</item>
+                     <item>London ſtone 17.</item>
+                     <item>Waterbearer 14.</item>
+                     <item>Nuns head 14, 5.</item>
+                     <item>Puttocke 15, 12.</item>
+                  </list>
+               </item>
+               <item>Bricklayers finial to the Liberds head 11, 8
+<list>
+                     <item>Long Meg 12.</item>
+                     <item>Tree by the Lion 12, 14.</item>
+                     <item>Lion 14.</item>
+                     <item>Pigeon 12.</item>
+                     <item>Tree by the Pigeon 11, 10.</item>
+                     <item>Graueleſſe lambe 11.</item>
+                     <item>Camell 10, 2.</item>
+                     <item>Hornebooke 15, 14.</item>
+                     <item>Hales arbor 17, 16.</item>
+                     <item>Sheffe of arrowes 17, 13.</item>
+                  </list>
+               </item>
+               <item>Brownes ſtake to the hand and roſe 15, 5.
+<list>
+                     <item>Swan Wilcox 16, 4.</item>
+                     <item>Candle 18, 7.</item>
+                     <item>Whitehorne 17, 1.</item>
+                     <item>Brands boy 15, 12.</item>
+                     <item>Majors marigold 17, 7.</item>
+                     <item>Tree by the Camell 18, 12.</item>
+                     <item>Bings ſtake 14.</item>
+                     <pb n="14" facs="tcp:151888:12"/>
+                     <item>Robinſon 13, 1.</item>
+                     <item>Sheffe of arrowes 15.</item>
+                     <item>Hales arbor 17, 8.</item>
+                     <item>Perins paſt bruſh 17, 13.</item>
+                     <item>Cottons ſtake 13, 7.</item>
+                     <item>Wards ſtake 14, 8.</item>
+                     <item>Swans ſtake 16.</item>
+                     <item>Hodges Hart 17, 17.</item>
+                     <item>Stirrop 18, 18.</item>
+                     <item>Parks his pleaſure 12, 3.</item>
+                     <item>Kingſton bridge 10, 18.</item>
+                     <item>Star 10.</item>
+                     <item>Robinſons arme 11, 7.</item>
+                     <item>Hodges pleaſure 12, 12.</item>
+                     <item>Cuckoe 14, 5.</item>
+                     <item>Bakers boy 17, 3.</item>
+                     <item>Barlow 16, 8.</item>
+                     <item>Lion 15, 16.</item>
+                     <item>Buſh vnder buſh 15.</item>
+                     <item>Mercers maid 14, 10.</item>
+                  </list>
+               </item>
+               <item>Bunhill to the Pew dore 9, 5.
+<list>
+                     <item>Sawpit 13, 1.</item>
+                     <item>Mouth 10, 9.</item>
+                     <item>Tinkers budget 11, 2.</item>
+                     <item>Princes ſtake 13, 10.</item>
+                     <item>Speeds ſtake 12, 15.</item>
+                     <item>Colbrand 12.</item>
+                     <pb n="15" facs="tcp:151888:12"/>
+                     <item>Great ſtone 10, 14.</item>
+                     <item>Bricklayer 12, 7.</item>
+                     <item>Wridocke 14, 17.</item>
+                     <item>Frier tucke 12, 10.</item>
+                     <item>Gate by the dog houſe 13, 13.</item>
+                     <item>Rolfes ſtone 9.</item>
+                  </list>
+               </item>
+               <item>Buſh vnder buſh to the Wolues head 16, 12
+<list>
+                     <item>Aſpinals ape 9, 10.</item>
+                     <item>Mab 11, 14.</item>
+                     <item>Kingſton bridge 14, 13.</item>
+                     <item>Parks his pleaſure 16, 10.</item>
+                     <item>Wards ſtake 17, 18.</item>
+                     <item>Swans ſtake 17, 2.</item>
+                     <item>Hodges Hart 17.</item>
+                     <item>Stirrop 17.</item>
+                     <item>Martins monkie 17, 8.</item>
+                     <item>Whitbrooke 18, 2.</item>
+                     <item>Bailies bay 18, 2.</item>
+                     <item>Brewers apron 17, 12.</item>
+                     <item>Pollins ſtake 12, 17.</item>
+                     <item>Corniſh chough 11.</item>
+                     <item>Cawdries coffer 12, 10.</item>
+                     <item>Baſsings hall 11, 4.</item>
+                     <item>Boxes arme 10, 4.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Camell to Thurloes roſe 16, 10.
+<list>
+                     <item>Turkes ſtake 11.</item>
+                     <item>Long Meg 13, 15.</item>
+                     <pb n="16" facs="tcp:151888:13"/>
+                     <item>Saplin by the Lion 13, 9.</item>
+                     <item>Lion 13, 7.</item>
+                     <item>Rainbow 13. 15.</item>
+                     <item>Perins paſt bruſh 12, 5.</item>
+                     <item>Wards ſtake 13.</item>
+                     <item>Swans ſtake 15, 3.</item>
+                     <item>Hodges Hart 17, 12.</item>
+                     <item>Stirrops ſtake 18, 10.</item>
+                  </list>
+               </item>
+               <item>Candle to Turks ſtake 11, 4.
+<list>
+                     <item>Thurloes roſe 14, 11.</item>
+                     <item>Long Meg 17, 3.</item>
+                     <item>Saplin by the Lion 17, 4.</item>
+                     <item>Lion 17, 15.</item>
+                     <item>Pigeon 12.</item>
+                     <item>Saplin by the Pigeon 11, 9.</item>
+                     <item>Graueleſſe lambe 9, 13.</item>
+                     <item>Hornebooke 13, 12.</item>
+                     <item>Hales arbor 13, 18.</item>
+                     <item>Perins paſt bruſh 18, 1.</item>
+                     <item>Sheffe of arrowes 12, 13.</item>
+                     <item>Robinſon 9, 10.</item>
+                     <item>Cottons ſtake 14, 10.</item>
+                     <item>Wards ſtake 17, 10.</item>
+                  </list>
+               </item>
+               <item>Carington to the ſaplin by the pond 14.
+<list>
+                     <item>Lambertons houſe of the George 12, 10</item>
+                     <item>Harneſt man on the but 17, 10.</item>
+                     <item>Gate 11, 10.</item>
+                  </list>
+               </item>
+               <pb n="17" facs="tcp:151888:13"/>
+               <item>Carters whip to Whitehorne 16, 18.
+<list>
+                     <item>Brands boy 14, 18.</item>
+                     <item>Majors marigold 14, 12.</item>
+                     <item>Tree by the Camell 15, 10.</item>
+                     <item>Camell 16.</item>
+                     <item>Graueleſſe lambe 17.</item>
+                     <item>Hornebooke 15, 10.</item>
+                     <item>Hales arbor 9, 10.</item>
+                     <item>Bings ſtake 11, 10.</item>
+                     <item>Rainbow 12, 10.</item>
+                     <item>Kings arme 16, 9.</item>
+                     <item>Daines delight 16.</item>
+                     <item>Plaice 17.</item>
+                     <item>Diogenes 16, 18.</item>
+                     <item>Cat and fiddle 14, 8.</item>
+                     <item>Whitbrooke 12, 8.</item>
+                     <item>Martins monkie 10, 3.</item>
+                     <item>Robinſons leg 16, 4.</item>
+                     <item>Baylies bay 16, 17.</item>
+                     <item>Brewers apron 17, 5.</item>
+                     <item>Pollin 15.</item>
+                     <item>Corniſh chough 14.</item>
+                     <item>Bee-hiue 13, 3.</item>
+                     <item>Humfrey Iames 13.</item>
+                  </list>
+               </item>
+               <item>Cat and fiddle to the tree at the gate 14, 19
+<list>
+                     <item>Perins branch 15, 4.</item>
+                     <item>Crooked tree 11, 6.</item>
+                     <pb n="18" facs="tcp:151888:14"/>
+                     <item>Three ſaplins 12, 5.</item>
+                  </list>
+               </item>
+               <item>Cawdries coffer to the Bakers boy 11, 15.
+<list>
+                     <item>Humfrey Iames 11, 15.</item>
+                     <item>Stake in the plaine 14, 16.</item>
+                     <item>Bee-hiue 12.</item>
+                     <item>Corniſh chough 13.</item>
+                     <item>Pollins ſtake 13, 18.</item>
+                  </list>
+               </item>
+               <item>Clothworkers handle to Hariſon 10, 1.
+<list>
+                     <item>Gate by Hariſon 10, 11.</item>
+                     <item>Egpie 14.</item>
+                     <item>Sea griphon 12.</item>
+                     <item>Brownes ſtake 17, 16.</item>
+                     <item>Yong Powell 12, 13.</item>
+                     <item>Flint 15, 4.</item>
+                     <item>Aſpinals ape 16, 19.</item>
+                     <item>Star 16, 18.</item>
+                     <item>Robinſons arme 15, 18.</item>
+                     <item>Hodges pleaſure 15, 7.</item>
+                     <item>Cuckoe 14, 10.</item>
+                     <item>Stake in the plaine 17, 18.</item>
+                     <item>Humfrey Iames 17, 10.</item>
+                     <item>Bakers boy 15, 8.</item>
+                     <item>Barlow 14.</item>
+                     <item>Lion 12, 18.</item>
+                     <item>Buſh vnder buſh 11, 10.</item>
+                     <item>Mercers maid 9, 12.</item>
+                     <item>Popes head 13, 8.</item>
+                     <pb n="19" facs="tcp:151888:14"/>
+                     <item>Cocke 13, 4.</item>
+                     <item>Nightingale 13, 4.</item>
+                     <item>Boxes arme 13, 12.</item>
+                     <item>Baſsings hall 15, 12.</item>
+                     <item>Cawdries coffer 17, 13.</item>
+                  </list>
+               </item>
+               <item>Cocke to Mab 16, 17.
+<list>
+                     <item>Corniſh chough 10, 7.</item>
+                     <item>Pollins ſtake 11, 16.</item>
+                     <item>Bailies bay 17, 16.</item>
+                     <item>Brewers apron 17, 2.</item>
+                     <item>Crooked ſaplin 14, 13.</item>
+                  </list>
+               </item>
+               <item>Colbrand to Yomanſon 16, 12.
+<list>
+                     <item>London ſtone 17.</item>
+                     <item>Vent ſtone 15, 10.</item>
+                     <item>Waterbearer 14, 2.</item>
+                     <item>Nuns head 14, 16.</item>
+                     <item>Puttocke 16, 7.</item>
+                     <item>Sonday hill 16.</item>
+                  </list>
+               </item>
+               <item>Conie to the Couſlip 10.
+<list>
+                     <item>Pinder 10, 10.</item>
+                     <item>Queenes ſtake 12, 2.</item>
+                     <item>Archdale 16.</item>
+                     <item>Hand and roſe 18, 13.</item>
+                     <item>Lurching ſtake 11.</item>
+                     <item>Diall 12, 15.</item>
+                     <item>Nelſon 15, 10,</item>
+                     <item>Buſh by Nelſon 15, 16.</item>
+                     <pb n="20" facs="tcp:151888:15"/>
+                     <item>Lanterne 17, 17.</item>
+                     <item>Greenes ſtake 18, 2.</item>
+                     <item>Martins May-flower 16, 13.</item>
+                     <item>Fullers ſtake 10.</item>
+                     <item>Dayes deede 12, 15.</item>
+                     <item>Saint Martins 16, 8.</item>
+                  </list>
+               </item>
+               <item>Coopers ſtake to Fullers ſtake 17, 2.
+<list>
+                     <item>Dayes deed 14, 15.</item>
+                     <item>Stone by Saint Martins 11, 12.</item>
+                     <item>Saint Martins 12. 3.</item>
+                     <item>Durhams boy 10, 10.</item>
+                     <item>Beſwikes ſtone 17, 6.</item>
+                     <item>Leaſe 16, 5.</item>
+                     <item>Allowayes houſe of the George 15, 10.</item>
+                     <item>Goſſon 17.</item>
+                     <item>Amias backe 14.</item>
+                     <item>Theefe in the hedge 12, 8.</item>
+                     <item>Mils his backe 9, 9.</item>
+                     <item>Founders ſonne 10, 9.</item>
+                  </list>
+               </item>
+               <item>Corniſh chough to Whitbrooke 10, 13.
+<list>
+                     <item>Cat and fiddle 9, 18.</item>
+                     <item>Daines delight 16, 10.</item>
+                     <item>Plaice 14, 3.</item>
+                     <item>Diogenes 11, 17.</item>
+                     <item>Robinſons leg 9, 10.</item>
+                     <item>Stake at the ſtile 14, 13.</item>
+                     <item>Target tree 14.</item>
+                     <pb n="21" facs="tcp:151888:15"/>
+                     <item>Beares head 12, 10.</item>
+                  </list>
+               </item>
+               <item>Cottons ſtake to Parkins hare 14.
+<list>
+                     <item>Majors Marigold 10, 4.</item>
+                     <item>Tree by the Camell 10, 7.</item>
+                     <item>Camell 10, 11.</item>
+                     <item>Graueleſſe lambe 11, 10.</item>
+                     <item>Pigeon 13, 12.</item>
+                     <item>Saplin by the Pigeon 13.</item>
+                     <item>Kings arme 13, 13.</item>
+                     <item>Daines delight 14, 3.</item>
+                     <item>Plaice 16, 4.</item>
+                     <item>Diogenes 16, 14.</item>
+                     <item>Robinſons leg 17, 17.</item>
+                     <item>Cat and ſiddle 15, 16.</item>
+                     <item>Whitbrooke 13.</item>
+                     <item>Martins monkie 10, 4.</item>
+                     <item>Bee-hiue 18, 10.</item>
+                  </list>
+               </item>
+               <item>Couſlip to the Liberds head 18, 10.
+<list>
+                     <item>Hare in the vale 12, 8.</item>
+                     <item>Three cranes 12, 17.</item>
+                     <item>Bores head 13, 18.</item>
+                     <item>Horſelofe 11, 18.</item>
+                     <item>Kettles ſtone 12.</item>
+                     <item>Candle 12, 12.</item>
+                     <item>Whitehorne 13, 7.</item>
+                     <item>Brands boy 15.</item>
+                     <item>Tree by the Camell 18, 12.</item>
+                     <pb n="22" facs="tcp:151888:16"/>
+                     <item>Majors marigold 17.</item>
+                     <item>Swan Wilcox 10, 17.</item>
+                     <item>Bings ſtake 16, 2.</item>
+                     <item>Robinſon 18, 6.</item>
+                     <item>Goldſmith 14, 8.</item>
+                     <item>Wolues head 17.</item>
+                     <item>Swan harneſt man 13.</item>
+                     <item>Greenes ſtake 12, 3.</item>
+                     <item>Martins May-flower 12.</item>
+                     <item>Buſh by Nelſon 12, 12.</item>
+                     <item>Nelſon 12.</item>
+                     <item>Lanterne 15.</item>
+                     <item>Beſwikes ſtone 17, 8.</item>
+                  </list>
+               </item>
+               <item>Cuckoe to Carters whip 10, 5.
+<list>
+                     <item>Kingſton bridge 11, 18.</item>
+                     <item>Parkes his pleaſure 13, 8.</item>
+                     <item>Mill 16, 14.</item>
+                     <item>Watergap 17, 7.</item>
+                     <item>Cottons ſtake 16, 9.</item>
+                     <item>Sheffe of arrowes 19.</item>
+                     <item>Wardes ſtake 14, 17.</item>
+                     <item>Perins paſt bruſh 17, 9.</item>
+                     <item>Swans ſtake 13, 18.</item>
+                     <item>Hodges Hart 13, 9.</item>
+                     <item>Stirrop 13, 14.</item>
+                     <item>Martins monkie 14.</item>
+                     <item>Whitbrooke 15.</item>
+                     <pb n="23" facs="tcp:151888:16"/>
+                     <item>Diogenes 18.</item>
+                     <item>Cat and fiddle 15, 16.</item>
+                     <item>Robinſons leg 16, 9.</item>
+                     <item>Baylies bay 15, 9.</item>
+                     <item>Brewers apron 15, 4.</item>
+                     <item>Crooked ſaplin 13, 10.</item>
+                     <item>Pollin 10, 16.</item>
+                     <item>Three ſaplins 10, 10.</item>
+                     <item>Caw dries coffer 14, 5.</item>
+                     <item>Baſsings hall 13, 2.</item>
+                     <item>Boxes arme 12, 13.</item>
+                     <item>Nightingale 10, 6.</item>
+                  </list>
+               </item>
+               <item>Curriers ſhaue to the Vent ſtone 14.
+<list>
+                     <item>London ſtone 15.</item>
+                     <item>Lewer 16, 10.</item>
+                     <item>Weeping croſſe 17, 8.</item>
+                     <item>Saunders backe 15, 18.</item>
+                     <item>Lockleys mouth 14, 8.</item>
+                     <item>Norington by the condit head 12, 2.</item>
+                     <item>Red croſſe 13; 15.</item>
+                     <item>Norington 14, 19.</item>
+                     <item>Doues ſtake 16, 18.</item>
+                     <item>Sudlowes ſwan 18, 9.</item>
+                     <item>Vine 10, 16.</item>
+                     <item>Coopers ſtake 12, 4.</item>
+                     <item>Nortriges hinde 12, 6.</item>
+                     <item>Hercules club 13, 9.</item>
+                     <pb n="24" facs="tcp:151888:17"/>
+                     <item>Tree by Hercules 14, 10.</item>
+                     <item>Stocks 12.</item>
+                     <item>Bridge by the Stocks 12, 3.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>Daies deede to the Couſlip 15, 5.
+<list>
+                     <item>Pinder 13, 5.</item>
+                     <item>Queenes ſtake 14, 10.</item>
+                     <item>Archdale 17.</item>
+                     <item>Lurching ſtake 10, 18.</item>
+                     <item>Swan harneſt man 15, 12:</item>
+                     <item>Greenes ſtake 12, 11.</item>
+                     <item>Martins may-flower 11.</item>
+                     <item>Alloway 12, 13.</item>
+                     <item>Wolues head 18, 7.</item>
+                     <item>Brownes ſtake 16, 6.</item>
+                     <item>Egpie 15, 1.</item>
+                     <item>Sea-gripgon 16, 10.</item>
+                     <item>Gate by Hariſon 18.</item>
+                     <item>Hariſon 17, 9.</item>
+                     <item>Watſon 16, 8.</item>
+                     <item>Houſe of Yorke 18, 4.</item>
+                     <item>Goſſon 15, 8.</item>
+                     <item>Amias backe 14.</item>
+                     <item>Theefe in the hedge 13, 9.</item>
+                     <item>Mils his backe 23, 8.</item>
+                     <item>Bankes ſtake 11, 9.</item>
+                  </list>
+               </item>
+               <item>Daines delight to the Target tree 10, 12.
+<list>
+                     <item>Beares head 13, 10.</item>
+                     <pb n="25" facs="tcp:151888:17" rendition="simple:additions"/>
+                     <item>Brewers apron 12.</item>
+                     <item>Bailies bay 11.</item>
+                     <item>Crooked ſaplin 14, 9.</item>
+                     <item>Middle ſaplin 12.</item>
+                  </list>
+               </item>
+               <item>Diall to the hand and roſe 11, 17.
+<list>
+                     <item>Swan Wilcox 13, 19.</item>
+                     <item>Horſeloſe 17, 15.</item>
+                     <item>Kettles ſtone 16, 16.</item>
+                     <item>Candle 16, 6.</item>
+                     <item>Whitehorne 16.</item>
+                     <item>Brands boy 15, 17.</item>
+                     <item>Majors Marigold 18, 12.</item>
+                     <item>Bings ſtake 16, 6.</item>
+                     <item>Robinſon 17, 7.</item>
+                     <item>Watergap 16, 4.</item>
+                     <item>Mill 14, 10.</item>
+                     <item>Goldſmiths ſtake 10, 17.</item>
+                     <item>Wolues head 11, 10.</item>
+                     <item>Brownes ſtake 11.</item>
+                     <item>Egpie 12.</item>
+                     <item>Sea-griphon 14, 15.</item>
+                     <item>Aſpinals ape 18.</item>
+                     <item>Flint 17, 4.</item>
+                     <item>Yong Powell 16, 18.</item>
+                     <item>Hariſon 16, 5.</item>
+                     <item>Watſon 16.</item>
+                     <item>Houſe of Yorke 18 9.</item>
+                     <pb n="26" facs="tcp:151888:18" rendition="simple:additions"/>
+                     <item>Goſſon 16.</item>
+                     <item>Alloway 14, 2.</item>
+                     <item>Leaſe 11, 9.</item>
+                  </list>
+               </item>
+               <item>Dickmans marigold to the Couſlip 14, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <list>
+                     <item>Pinder 14, 8.</item>
+                     <item>Queenes ſtake 16, 6.</item>
+                     <item>Lurching ſtake 14, 18.</item>
+                     <item>Diall 14, 17.</item>
+                     <item>Martins May-flower 18.</item>
+                     <item>Nelſon 16, 17.</item>
+                     <item>Lanthorne 18, 7.</item>
+                     <item>Dayes deede 10, 19.</item>
+                     <item>Saint Martins 15.</item>
+                     <item>Stone by S. Martins 14, 13.</item>
+                     <item>Dorhams boy 17, 6.</item>
+                     <item>Norington 18, 4.</item>
+                  </list>
+               </item>
+               <item>Diogenes to the tree at the gate 13, 2.
+<list>
+                     <item>Carington 14.</item>
+                     <item>Blacke boy 15.</item>
+                     <item>Hariſons ſaplin 13, 3.</item>
+                     <item>Three ſaplins 14.</item>
+                     <item>Simſons ſaplin 14, 10:</item>
+                     <item>White ſaplin 14.</item>
+                  </list>
+               </item>
+               <item>Doues Redbreſt to to the Egpie 10, 19.
+<list>
+                     <item>Brownes ſtake 13, 17.</item>
+                     <item>Wolues head 16, 10.</item>
+                     <item>Kingſton bridge 18, 2.</item>
+                     <pb n="27" facs="tcp:151888:18"/>
+                     <item>Carters whip 16, 7.</item>
+                     <item>Mab 14, 10.</item>
+                     <item>Aſpinals ape 11, 12.</item>
+                     <item>Flint 10, 4.</item>
+                     <item>Star 11, 10.</item>
+                     <item>Robinſons arme 10, 12.</item>
+                     <item>Hodges pleaſure 10, 2.</item>
+                     <item>Stake in the plaine 13, 2.</item>
+                     <item>Corniſh chough 17, 12.</item>
+                     <item>Bee-hiue 15, 6.</item>
+                     <item>Humfrey Iames 13.</item>
+                     <item>Bakers boy 11.</item>
+                     <item>Cocke 10, 6.</item>
+                     <item>Nightingale 11, 8.</item>
+                     <item>Boxes arme 12, 16.</item>
+                     <item>Baſſings hall 14, 10.</item>
+                     <item>Cawdries coffer 16, 8.</item>
+                     <item>Piper 14, 13.</item>
+                  </list>
+               </item>
+               <item>Doues ſtake to Fullers ſtake 15, 18,
+<list>
+                     <item>Dayes deede 13, 3.</item>
+                     <item>Nelſon 17, 12.</item>
+                     <item>Lanterne 15, 2.</item>
+                     <item>Beſwikes ſtone 13, 6.</item>
+                     <item>Leaſe 11, 17.</item>
+                     <item>Alloway 10, 15.</item>
+                     <item>Gate by Hariſon 17, 8.</item>
+                     <item>Hariſon 16, 6.</item>
+                     <pb n="28" facs="tcp:151888:19" rendition="simple:additions"/>
+                     <item>Watſon 14, 10.</item>
+                     <item>Goſſon 12, 18.</item>
+                     <item>Houſe of Yorke 14, 12.</item>
+                     <item>Vpper gardiner 14, 17.</item>
+                     <item>Rams head 15, 12.</item>
+                     <item>Quinies pillar 16, 18.</item>
+                     <item>Huls pumpe 15, 16.</item>
+                     <item>Clothworkers handle 16, 10.</item>
+                     <item>Boxes leg 17.</item>
+                     <item>Kings mace 18.</item>
+                  </list>
+               </item>
+               <item>Durhams boy to Pinder 18, 4.
+<list>
+                     <item>Lurching ſtake 15, 10.</item>
+                     <item>Diall 12, 14.</item>
+                     <item>Nelſon 10, 18.</item>
+                     <item>Martins May-flower 12, 6.</item>
+                     <item>Greenes ſtake 14.</item>
+                     <item>Swan harneſt man 16, 18.</item>
+                     <item>Wolues head 18, 7.</item>
+                     <item>Brownes ſtake 15, 9.</item>
+                     <item>Egpie 13.</item>
+                     <item>Sea-griphon 13, 19.</item>
+                     <item>Yong Powell 17, 8.</item>
+                     <item>Gate by Hariſon 14, 10.</item>
+                     <item>Hariſon 13, 15.</item>
+                     <item>Watſon 12.</item>
+                     <item>Goſſon 10, 17.</item>
+                     <item>Houſe of Yorke 13, 10.</item>
+                     <pb n="29" facs="tcp:151888:19"/>
+                     <item>Vpper gardiner 14, 15.</item>
+                     <item>Rams head 16.</item>
+                     <item>Huls pumpe 17.</item>
+                     <item>Quinies pillar 17.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Egpie to Archdale 17.
+<list>
+                     <item>Hand and roſe 18, 11.</item>
+                     <item>Bings ſtake 17, 16.</item>
+                     <item>Robinſon 16, 18.</item>
+                     <item>Sheffe of arrowes 18, 10.</item>
+                     <item>Watergap 14.</item>
+                     <item>Mill 11, 19.</item>
+                     <item>Cottons ſtake 16, 12.</item>
+                     <item>Wardes ſtake 17, 6.</item>
+                     <item>Swans ſtake 18, 8.</item>
+                     <item>Parkes his pleaſure 15, 5.</item>
+                     <item>Kingſton bridge 13, 12.</item>
+                     <item>Carters whip 12, 2.</item>
+                     <item>Mab 10, 9.</item>
+                     <item>Star 10, 12.</item>
+                     <item>Robinſons arme 11, 10.</item>
+                     <item>Hodges pleaſure 12. 8.</item>
+                     <item>Stake in the plaine 16.</item>
+                     <item>Cuckoe 13, 16.</item>
+                     <item>Humfrey Iames 18.</item>
+                     <item>Bakers boy 16, 12.</item>
+                     <item>Barlow 15, 10.</item>
+                     <item>Lion 14, 14.</item>
+                     <pb n="30" facs="tcp:151888:20"/>
+                     <item>Buſh vnder buſh 13, 14.</item>
+                     <item>Mercers mayd 12, 16.</item>
+                     <item>Flying horſe 12.</item>
+                     <item>Maidens bluſh 11, 8.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>Flint to Swan harneſt man 11.
+<list>
+                     <item>Goldſmith 11.</item>
+                     <item>Mill 10, 3.</item>
+                     <item>Watergap 11, 12.</item>
+                     <item>Brands boy 19.</item>
+                     <item>Bings ſtake 16, 12.</item>
+                     <item>Robinſon 14, 17.</item>
+                     <item>Sheffe of arrowes 14, 17.</item>
+                     <item>Hales arbor 17.</item>
+                     <item>Perins paſt bruſh 15, 18.</item>
+                     <item>Cottons ſtake 12, 10.</item>
+                     <item>Parkes his pleaſure 10, 6.</item>
+                     <item>Wardes ſtake 12, 10.</item>
+                     <item>Swans ſtake 13.</item>
+                     <item>Hodges hart 13. 14.</item>
+                     <item>Stirrop 14, 17.</item>
+                     <item>Martins monkie 15, 15.</item>
+                     <item>Whitbrooke 17, 12.</item>
+                     <item>Pollin 17, 10.</item>
+                     <item>Corniſh chough 16.</item>
+                     <item>Bee-hiue 14.</item>
+                     <item>Humfrey Iames 12.</item>
+                     <item>Bakers boy 10, 18.</item>
+                     <pb n="31" facs="tcp:151888:20"/>
+                     <item>Three ſaplins 18, 3.</item>
+                     <item>Barlow 10.</item>
+                     <item>Popes head 13, 14.</item>
+                     <item>Cocke 15.</item>
+                     <item>Nightingale 17, 2.</item>
+                  </list>
+               </item>
+               <item>Flying horſe to Brownes ſtake 14, 3.
+<list>
+                     <item>Wolues head 16, 8.</item>
+                     <item>Aſpinals ape 10, 3.</item>
+                     <item>Mab 12, 15.</item>
+                     <item>Carters whip 13, 14.</item>
+                     <item>Kingſton bridge 16.</item>
+                     <item>Parkes his pleaſure 17, 18.</item>
+                     <item>Pollin 16.</item>
+                     <item>Corniſh chough 14, 4.</item>
+                     <item>Bee-hiue 11, 13.</item>
+                     <item>Three ſaplins 14, 9.</item>
+                     <item>Crooked ſaplin 18.</item>
+                     <item>Cawdries coffer 14.</item>
+                     <item>Baſſings hall 12, 6.</item>
+                     <item>Boxes arme 10, 18.</item>
+                     <item>Kempton 10.</item>
+                  </list>
+               </item>
+               <item>Founders ſonne to Beſwikes ſtone 17, 12.
+<list>
+                     <item>Leaſe 15, 10.</item>
+                     <item>Alloway 12, 18.</item>
+                     <item>Goſſon 13, 15.</item>
+                     <item>Watſon 14, 18</item>
+                     <item>Houſe of Yorke 13, 8.</item>
+                     <pb n="32" facs="tcp:151888:21"/>
+                     <item>Vpper gardiner 12, 10.</item>
+                     <item>Hariſon 16, 6.</item>
+                     <item>Sea-griphon 18, 4.</item>
+                     <item>Rams head 12, 8.</item>
+                     <item>Quinies pillar 13, 17.</item>
+                     <item>Doues redbreſt 15, 17.</item>
+                     <item>Huls pumpe 11, 16.</item>
+                     <item>Clothworkers handle 11, 12.</item>
+                     <item>Boxes leg 11, 16.</item>
+                     <item>Kings mace 12, 2.</item>
+                     <item>Siluer doue 12, 9.</item>
+                     <item>Snowball 13, 12.</item>
+                     <item>Houſe of honeſtie 15, 13.</item>
+                     <item>Kempton 16.</item>
+                     <item>Piper 17.</item>
+                     <item>Quinies faulchin 14, 3.</item>
+                     <item>Blacke Nan 14, 18.</item>
+                     <item>Stile poſt 10, 10.</item>
+                  </list>
+               </item>
+               <item>Frier Tucke to S. Giles 12.
+<list>
+                     <item>Robinhood 10, 13.</item>
+                     <item>Saint Botulphs 9, 10.</item>
+                     <item>Vent ſtone 17.</item>
+                     <item>Waterbearer 14, 12.</item>
+                     <item>Nuns head 14, 12.</item>
+                     <item>Puttocke 15, 16.</item>
+                  </list>
+               </item>
+               <item>Fullers ſtake to the Couſlip 13, 6.
+<list>
+                     <item>Pinder 11, 12.</item>
+                     <pb n="33" facs="tcp:151888:21"/>
+                     <item>Queenes ſtake 13, 2.</item>
+                     <item>Archdale 15, 6.</item>
+                     <item>Hand and roſe 19, 12.</item>
+                     <item>Swan harneſt man 16.</item>
+                     <item>Greenes ſtake 13.</item>
+                     <item>Martins May-flower 11, 4.</item>
+                     <item>Brownes ſtake 17, 10.</item>
+                     <item>Egpie 16, 16.</item>
+                     <item>Watſon 18, 11.</item>
+                     <item>Goſſon 18.</item>
+                     <item>Beſwikes ſtone 10, 16.</item>
+                     <item>Leaſe 12, 16.</item>
+                     <item>Alloway 15, 2.</item>
+                     <item>Amias backe 16, 12.</item>
+                     <item>Theefe in the hedge 16, 4.</item>
+                     <item>Mils his backe 16, 4.</item>
+                     <item>Houſe of Lancaſter 12, 4.</item>
+                     <item>Banks 14, 5.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>Gate by Hariſon to the Swan 12, 15.
+<list>
+                     <item>Goldſmith 14, 5.</item>
+                     <item>Watergap 16, 5.</item>
+                     <item>Mill 14, 9.</item>
+                     <item>Wolues head 10, 10.</item>
+                     <item>Cottons ſtake 18, 10.</item>
+                     <item>Parks his pleaſure 16, 10.</item>
+                     <item>Kingſton bridge 14, 12.</item>
+                     <item>Carters whip 12, 14.</item>
+                     <pb n="34" facs="tcp:151888:22"/>
+                     <item>Mab 11, 6.</item>
+                     <item>Hodges pleaſure 10, 7.</item>
+                     <item>Cuckoe 11, 2.</item>
+                     <item>Stake in the plaine 14, 2.</item>
+                     <item>Bee hiue 17, 12.</item>
+                     <item>Humfrey Iames 15, 10.</item>
+                     <item>Bakers boy 13, 12.</item>
+                     <item>Barlow 12, 10.</item>
+                     <item>Lion 11, 10.</item>
+                     <item>Popes head 14, 15.</item>
+                     <item>Cocke 15, 12.</item>
+                     <item>Nightingale 17, 2.</item>
+                     <item>Houſe of honeſtie 13, 19.</item>
+                     <item>Kempton 15, 10.</item>
+                  </list>
+               </item>
+               <item>Goldſmith ſtake to the Three cranes 18, 10
+<list>
+                     <item>Bores head 17, 11.</item>
+                     <item>Bricklayers finiall 18, 1.</item>
+                     <item>Horſelofe 15, 6.</item>
+                     <item>Kettles ſtone 13, 2.</item>
+                     <item>Candle 11, 12.</item>
+                     <item>Whitehorne 10, 3.</item>
+                     <item>Parkins hare 16, 4.</item>
+                     <item>Stone 16, 6.</item>
+                     <item>Majors marigold 10, 14.</item>
+                     <item>Tree by the Camell 12, 3.</item>
+                     <item>Camell 13, 5.</item>
+                     <item>Graueleſſe lambe 15, 10.</item>
+                     <pb n="35" facs="tcp:151888:22"/>
+                     <item>Tree by the Pigeon 16, 8.</item>
+                     <item>Pigeon 18, 4.</item>
+                     <item>Hornebooke 16, 4.</item>
+                     <item>Hales arbor 12, 16.</item>
+                     <item>Perins paſt bruſh 14, 13.</item>
+                     <item>Rainbow 18, 8.</item>
+                     <item>Wards ſtake 11, 16.</item>
+                     <item>Swans ſtake 14, 2.</item>
+                     <item>Hodges hart 16, 14.</item>
+                     <item>Stirrop 17, 15.</item>
+                     <item>Star 13, 2.</item>
+                     <item>Robinſons arme 14, 12.</item>
+                     <item>Hodges pleaſure 16, 10.</item>
+                     <item>Cuckoe 18, 10.</item>
+                  </list>
+               </item>
+               <item>Goſſon to Greenes ſtake 13, 5.
+<list>
+                     <item>Swan 14, 10.</item>
+                     <item>Goldſmith 16, 17.</item>
+                     <item>Wolues head 13, 10.</item>
+                     <item>Brownes ſtake 10, 5.</item>
+                     <item>Carters whip 17, 3.</item>
+                     <item>Mab 15, 9.</item>
+                     <item>Aſpinals ape 12, 13.</item>
+                     <item>Flint 10, 12.</item>
+                     <item>Star 14.</item>
+                     <item>Robinſons arme 14, 6.</item>
+                     <item>Hodges pleaſure 14, 9.</item>
+                     <item>Cuckoe 15, 2.</item>
+                     <pb n="36" facs="tcp:151888:23"/>
+                     <item>Stake in the plaine 18, 2.</item>
+                     <item>Barlow 16.</item>
+                     <item>Bakers boy 17, 4.</item>
+                     <item>Popes head 17, 12.</item>
+                     <item>Cocke 18, 5.</item>
+                     <item>Lion 15.</item>
+                     <item>Buſh vnder buſh 13, 10.</item>
+                     <item>Mercers mayd 12.</item>
+                     <item>Flying horſe 10, 14.</item>
+                     <item>Kempton 15, 9.</item>
+                     <item>Houſe of honeſtie 13, 18.</item>
+                     <item>Snowball 12, 17.</item>
+                     <item>Blacke Nan 18, 2.</item>
+                     <item>Quinies faulchin 17, 5.</item>
+                     <item>Siluer doue 13, 17.</item>
+                     <item>Kings mace 12, 10.</item>
+                     <item>Boxes leg 10, 17.</item>
+                  </list>
+               </item>
+               <item>Graueleſſe lambe to Turkes ſtake 10, 18.
+<list>
+                     <item>Thurloes roſe 16, 10.</item>
+                     <item>Long Meg 12.</item>
+                     <item>Saplin by the Lion 11, 10.</item>
+                     <item>Lion 11, 8.</item>
+                     <item>Kings arme 17.</item>
+                     <item>Rainbow 13.</item>
+                     <item>Perins paſt bruſh 12, 4.</item>
+                     <item>Swans ſtake 15, 7.</item>
+                     <item>Hodges hart 17, 8.</item>
+                     <pb n="37" facs="tcp:151888:23"/>
+                     <item>Stirrop 18, 9.</item>
+                     <item>Buſh by the Goldſmith 15, 16.</item>
+                  </list>
+               </item>
+               <item>Great ſtone by the Briklaier to S. Giles 11, 9
+<list>
+                     <item>Robinhood 11.</item>
+                     <item>Saint Botulphs 10.</item>
+                     <item>Yomanſon 19, 10.</item>
+                     <item>London ſtone 19, 7.</item>
+                     <item>Vent ſtone 17, 18.</item>
+                     <item>Waterbearer 16.</item>
+                     <item>Nuns head 16, 5.</item>
+                     <item>Puttocke 17, 10.</item>
+                     <item>Sonday hill 14, 13.</item>
+                     <item>Stumpe 12, 14.</item>
+                  </list>
+               </item>
+               <item>Greenes ſtake to the Hand and roſe 11, 6.
+<list>
+                     <item>Swan Wilcox 12, 19.</item>
+                     <item>Horſelofe 17, 16.</item>
+                     <item>Kettes ſtone 16, 8.</item>
+                     <item>Candle 15, 5.</item>
+                     <item>Whitehorne 14, 10.</item>
+                     <item>Brands boy 13, 13.</item>
+                     <item>Majors marigold 16.</item>
+                     <item>Tree by the Camell 17, 15.</item>
+                     <item>Bings ſtake 13, 2.</item>
+                     <item>Robinſon 13, 10.</item>
+                     <item>Watergap 11, 16.</item>
+                     <item>Mill 9, 10.</item>
+                     <item>Sheffe of arrowes 16, 12.</item>
+                     <pb n="38" facs="tcp:151888:24"/>
+                     <item>Cottons ſtake 15, 16.</item>
+                     <item>Ward 17, 15.</item>
+                     <item>Parkes his pleaſure 16.</item>
+                     <item>Kingſton bridge 15.</item>
+                     <item>Carters whip 14, 6.</item>
+                     <item>Mab 13, 18.</item>
+                     <item>Star 15, 12.</item>
+                     <item>Robinſons arme 17, 8.</item>
+                     <item>Hodges pleaſure 18, 9.</item>
+                     <item>Aſpinals ape 13, 2.</item>
+                     <item>Flint 12, 8.</item>
+                     <item>Yong Powell 12, 9.</item>
+                     <item>Sea griphon 11.</item>
+                     <item>Gate by Hariſon 12, 8.</item>
+                     <item>Hariſon 12, 11.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Hales arbor to Turkes ſtake 18, 13.
+<list>
+                     <item>Lion 18, 6.</item>
+                     <item>Kings arme 11, 4</item>
+                     <item>Daines delight 13.</item>
+                     <item>Plaice 15, 17.</item>
+                     <item>Diogenes 16, 12.</item>
+                     <item>Cat and fiddle 16, 12.</item>
+                     <item>Whitbrooke 13, 18.</item>
+                     <item>Martins monkie 11, 16.</item>
+                     <item>Stirrop 10, 14.</item>
+                  </list>
+               </item>
+               <item>Hand and roſe to the Hare in the vale 14, 11.
+<list>
+                     <item>Bricklayers finiall 10, 18.</item>
+                     <pb n="39" facs="tcp:151888:24"/>
+                     <item>Turkes ſtake 15, 10.</item>
+                     <item>Stone by Parkins 12.</item>
+                     <item>Parkins hare 12, 3.</item>
+                     <item>Pigeon 16, 3.</item>
+                     <item>Graueleſſe lambe 13, 9.</item>
+                     <item>Camell 11, 2.</item>
+                     <item>Tree by the Camell 9, 17.</item>
+                     <item>Robinſon 10, 2.</item>
+                     <item>Hornebooke 16, 13.</item>
+                     <item>Hales arbor 15, 13.</item>
+                     <item>Sheffe of arrowes 14.</item>
+                     <item>Cottons ſtake 15, 2.</item>
+                     <item>Parkes his pleaſure 17, 4.</item>
+                     <item>Kingſton bridge 17, 10.</item>
+                     <item>Watergap 11, 8.</item>
+                     <item>Mill 11, 2.</item>
+                     <item>Wolues head 12, 15.</item>
+                  </list>
+               </item>
+               <item>Hare in the vale to Thurloes roſe 14, 5.
+<list>
+                     <item>Turkes ſtake 16, 15.</item>
+                     <item>Bricklayers finiall 13.</item>
+                     <item>Bores head 11, 14.</item>
+                     <item>Horſelofe 11, 12.</item>
+                     <item>Kettles ſtone 13.</item>
+                     <item>Candle 14, 14.</item>
+                     <item>Whitehorne 16, 12.</item>
+                     <item>Brands boy 18, 9.</item>
+                     <item>Swan Wilcox 15, 3.</item>
+                  </list>
+               </item>
+               <pb n="40" facs="tcp:151888:25"/>
+               <item>Hariſons fellowſhip to the Swan 13, 4.
+<list>
+                     <item>Goldſmith 14, 16.</item>
+                     <item>Wolues head 11, 2.</item>
+                     <item>Mill 15, 8.</item>
+                     <item>Watergap 17, 8.</item>
+                     <item>Parkes his pleaſure 17, 6.</item>
+                     <item>Kingſton bridge 15, 10.</item>
+                     <item>Carters whip 13, 17.</item>
+                     <item>Mab 12, 3.</item>
+                     <item>Aſpinals ape 9, 4.</item>
+                     <item>Star 10, 12.</item>
+                     <item>Robinſons arme 10, 16.</item>
+                     <item>Hodges pleaſure 11, 1.</item>
+                     <item>Cuckoe 11, 16.</item>
+                     <item>Stake in the plaine 14, 18.</item>
+                     <item>Bee-hiue 18, 6.</item>
+                     <item>Humfrey Iames 16, 8.</item>
+                     <item>Bakers boy 14, 8.</item>
+                     <item>Barlow 13.</item>
+                     <item>Lion 12.</item>
+                     <item>Buſh vnder buſh 10, 17.</item>
+                     <item>Popes head 15, 4.</item>
+                     <item>Cocke 16.</item>
+                     <item>Nightingale 17, 9.</item>
+                     <item>Kempton 15, 9.</item>
+                     <item>Houſe of honeſtic 13, 12.</item>
+                     <item>Snowball 13, 2.</item>
+                  </list>
+               </item>
+               <pb n="41" facs="tcp:151888:25"/>
+               <item>Hawes to the Conie 10, 15.
+<list>
+                     <item>Rogers ſtake 10, 18.</item>
+                     <item>Sir Rowland 11, 9</item>
+                     <item>Marſhes ſtake 12, 8.</item>
+                     <item>Fuller 14, 10.</item>
+                     <item>Dayes deed 16, 17.</item>
+                     <item>Weeping croſſe 10.</item>
+                     <item>Saunders backe 12, 3.</item>
+                     <item>Lockleys mouth 14, 18.</item>
+                     <item>Norington 17, 18.</item>
+                  </list>
+               </item>
+               <item>Hercules club to Stone by S. Martins 17, 3.
+<list>
+                     <item>Saint Martins 17, 12.</item>
+                     <item>Durhams boy 15, 8.</item>
+                     <item>Houſe of Lancaſter 12, 18.</item>
+                     <item>Bankes ſtake 11, 6.</item>
+                     <item>Mils his backe 11.</item>
+                     <item>Theefe in the hedge 14, 2.</item>
+                     <item>Amias backe 15, 10.</item>
+                     <item>Alloway 17, 14.</item>
+                     <item>Goſſon 19.</item>
+                  </list>
+               </item>
+               <item>Hodges pleaſure to the Mill 14, 10.
+<list>
+                     <item>Watergap 15, 6.</item>
+                     <item>Robinſon 18.</item>
+                     <item>Sheffe of arrowes 17.</item>
+                     <item>Cotton 14, 9.</item>
+                     <item>Parks his pleaſure 11, 11.</item>
+                     <item>Ward 13.</item>
+                     <gap reason="missing" resp="#OXF" extent="2 pages">
+                        <desc>〈2 pages missing〉</desc>
+                     </gap>
+                     <pb n="44" facs="tcp:151888:26"/>
+                     <item>Tree by the Camell 10, 3.</item>
+                     <item>Hornebooke 16, 4.</item>
+                     <item>Hales arbor 17, 19.</item>
+                     <item>Sheffe of arrowes 16, 19.</item>
+                     <item>Robinſon 13, 17.</item>
+                     <item>Bings ſtake 11, 1.</item>
+                  </list>
+               </item>
+               <item>Houſe of honeſtie to Yong Powell 15, 2.
+<list>
+                     <item>Flint 17, 7.</item>
+                     <item>Aſpinals ape 18, 10.</item>
+                     <item>Star 17, 18.</item>
+                     <item>Robinſons arme 16, 10.</item>
+                     <item>Hodges pleaſure 15, 10.</item>
+                     <item>Cuckoe 14, 4.</item>
+                     <item>Stake in the plaine 17, 4.</item>
+                     <item>Buſh vnder buſh 10, 16.</item>
+                     <item>Lion 11, 17.</item>
+                     <item>Barlow 12, 16.</item>
+                     <item>Bakers boy 14, 2.</item>
+                     <item>Humfrey Iames 16.</item>
+                     <item>Bee-hiue 17, 18.</item>
+                     <item>Popes head 10, 16.</item>
+                     <item>Cocke 10, 3.</item>
+                     <item>Baſſings hall 11, 6.</item>
+                     <item>Cawdries coffer 13, 8.</item>
+                  </list>
+               </item>
+               <item>Houſe of Lancaſter to Lurching ſtake 18, 4
+<list>
+                     <item>Diall 15, 3.</item>
+                     <item>Nelſon 12, 15.</item>
+                     <pb n="45" facs="tcp:151888:26"/>
+                     <item>Lanterne 10, 3.</item>
+                     <item>Martins May-flower 14, 2.</item>
+                     <item>Greenes ſtake 15, 18.</item>
+                     <item>Swan harneſt man 18, 10.</item>
+                     <item>Brownes ſtake 16, 5.</item>
+                     <item>Egpie 13, 4.</item>
+                     <item>Sea-griphon 12, 12.</item>
+                     <item>Yong Powell 17.</item>
+                     <item>Gate by Hariſon 13, 14.</item>
+                     <item>Hariſon 12, 9.</item>
+                     <item>Watſon 11.</item>
+                     <item>Goſſon 9, 14.</item>
+                     <item>Houſe of Yorke 11, 17.</item>
+                     <item>Vpper gardiner 12, 17.</item>
+                     <item>Maidens bluſh 18, 9.</item>
+                     <item>Doues Redbreſt 16, 18.</item>
+                     <item>Quinies pillar 15.</item>
+                     <item>Rams head 13, 18.</item>
+                     <item>Huls pumpe 14, 12.</item>
+                     <item>Clothworkers handle 15, 19.</item>
+                     <item>Boxes leg 16, 17.</item>
+                     <item>Kings mace 18, 4.</item>
+                     <item>Founders ſonne 11, 4.</item>
+                  </list>
+               </item>
+               <item>Houſe of York to Martins May-flower 15
+<list>
+                     <item>Greenes ſtake 15, 3.</item>
+                     <item>Swan 16, 9.</item>
+                     <item>Brownes ſtake 11, 7.</item>
+                     <pb n="46" facs="tcp:151888:27"/>
+                     <item>Wolues head 14, 12.</item>
+                     <item>Mill 18, 10.</item>
+                     <item>Kingſton bridge 18, 13.</item>
+                     <item>Carters whip 16, 2.</item>
+                     <item>Mab 15, 3.</item>
+                     <item>Aſpinals ape 12, 5.</item>
+                     <item>Star 13, 3.</item>
+                     <item>Robinſons arme 13.</item>
+                     <item>Hodges pleaſure 13.</item>
+                     <item>Cuckoe 13, 7.</item>
+                     <item>Stake in the plaine 16, 10.</item>
+                     <item>Humfrey Iames 17, 5.</item>
+                     <item>Bakers boy 15, 5.</item>
+                     <item>Barlow 13, 18.</item>
+                     <item>Lion 12, 14.</item>
+                     <item>Buſh vnder buſh 11.</item>
+                     <item>Popes head 15, 1.</item>
+                     <item>Cocke 15, 10.</item>
+                     <item>Nightingale 16, 12.</item>
+                     <item>Boxes arme 17, 2.</item>
+                     <item>Kempton 12, 13.</item>
+                     <item>Houſe of honeſtie 11.</item>
+                     <item>Snowball 10, 6.</item>
+                     <item>Piper 18.</item>
+                     <item>Blacke Nan 15, 14.</item>
+                     <item>Quinies faulchin 14, 18.</item>
+                     <item>Siluer doue 11, 11.</item>
+                     <pb n="47" facs="tcp:151888:27"/>
+                     <item>Kings mace 10, 2.</item>
+                  </list>
+               </item>
+               <item>Huls pumpe to the Egpie 12, 14.
+<list>
+                     <item>Sea-griphon 10, 6.</item>
+                     <item>Brownes ſtake 16, 5.</item>
+                     <item>Yong Powell 11.</item>
+                     <item>Flint 13, 16.</item>
+                     <item>Aſpinals ape 15, 10.</item>
+                     <item>Star 15, 14.</item>
+                     <item>Robinſons arme 14, 16.</item>
+                     <item>Hodges pleaſure 14, 8.</item>
+                     <item>Cuckoe 13, 18.</item>
+                     <item>Stake in the plaine 17, 4.</item>
+                     <item>Humfrey Iames 17, 2.</item>
+                     <item>Bakers boy. 15.</item>
+                     <item>Barlow 13, 10.</item>
+                     <item>Lion 12, 9.</item>
+                     <item>Buſh vnder buſh 11.</item>
+                     <item>Popes head 13, 6.</item>
+                     <item>Cocke 13, 9.</item>
+                     <item>Nightingale 13, 16.</item>
+                     <item>Boxes arme 14, 8.</item>
+                     <item>Baſſings hall 16, 9.</item>
+                     <item>Cawdries coffer 18, 9.</item>
+                     <item>Piper 12, 12.</item>
+                     <item>Blacke Nan 10, 13.</item>
+                  </list>
+               </item>
+               <item>Humfreys ſtake to the Conie 13.
+<list>
+                     <item>Rogers ſtake 12.</item>
+                     <pb n="48" facs="tcp:151888:28"/>
+                     <item>Sir Rowland 11, 10.</item>
+                     <item>Marſhes ſtake 11, 9.</item>
+                     <item>Fuller 12, 2.</item>
+                     <item>Dayes deed 13, 8.</item>
+                     <item>Saint Martins 15, 14.</item>
+                     <item>Stone by S. Martins 15.</item>
+                     <item>Durhams boy 17, 6.</item>
+                     <item>Norington 18, 2.</item>
+                     <item>Red croſſe 16.</item>
+                     <item>Coopers ſtake 18, 9.</item>
+                     <item>Norington by the condit 11, 8.</item>
+                     <item>Vine 13, 3.</item>
+                  </list>
+               </item>
+               <item>Humfrey Iames to Kingſton bridge 14, 2.
+<list>
+                     <item>Parkes his pleaſure 15, 7.</item>
+                     <item>Cottons ſtake 18, 8.</item>
+                     <item>Wards ſtake 16, 7.</item>
+                     <item>Swans ſtake 14, 13.</item>
+                     <item>Perins paſt bruſh 18, 5.</item>
+                     <item>Hodges hart 13, 4.</item>
+                     <item>Stirrop 13, 2.</item>
+                     <item>Martins monkie 13, 3.</item>
+                     <item>Whitbrooke 13, 6.</item>
+                     <item>Cat and fiddle 13, 8.</item>
+                     <item>Diogenes 15, 9.</item>
+                     <item>Plaice 17, 10.</item>
+                     <item>Robinſons leg 13, 9.</item>
+                     <item>Bailies bay 12.</item>
+                     <pb n="49" facs="tcp:151888:28"/>
+                     <item>Brewers apron 11, 8.</item>
+                     <item>Target tree 18, 6.</item>
+                     <item>Beares head 16, 10.</item>
+                  </list>
+               </item>
+               <item>Hurſt to the Vent ſtone 14, 13.
+<list>
+                     <item>London ſtone 15, 5.</item>
+                     <item>Lewer 16.</item>
+                     <item>Weeping croſſe 15, 17.</item>
+                     <item>Saunders backe 14, 4.</item>
+                     <item>Lockleys mouth 12, 10.</item>
+                     <item>Norington by the condit 9, 18.</item>
+                     <item>Red croſſe 10.</item>
+                     <item>Norington 10, 17.</item>
+                     <item>Doues ſtake 12, 15.</item>
+                     <item>Sudlowes ſwan 14, 9.</item>
+                     <item>Mils his backe 17, 3.</item>
+                     <item>Durhams boy 18, 3.</item>
+                     <item>Houſe of Lancaſter 17, 4.</item>
+                     <item>Banks his ſtake 16, 8.</item>
+                     <item>Founders ſonne 16.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>Kempton to the Flying horſe 10.
+<list>
+                     <item>Mercers maid 10, 14.</item>
+                     <item>Buſh vnder buſh 11, 16.</item>
+                     <item>Lion 12, 17.</item>
+                     <item>Barlow 13, 12.</item>
+                     <item>Bakers boy 14, 18.</item>
+                     <item>Humfrey Iames 17.</item>
+                     <item>Bee-hiue 18, 8.</item>
+                     <pb n="50" facs="tcp:151888:29"/>
+                     <item>Yong Powell 16, 18.</item>
+                     <item>Flint 18, 18.</item>
+                     <item>Robinſons arme 17, 13.</item>
+                     <item>Hodges pleaſure 16, 15.</item>
+                     <item>Cuckoe 15, 3.</item>
+                     <item>Stake in the plaine 18, 2.</item>
+                     <item>Popes head 11, 4.</item>
+                     <item>Cocke 10, 9.</item>
+                     <item>Baſsings hall 10, 18.</item>
+                     <item>Cawdries coffer 12, 19.</item>
+                  </list>
+               </item>
+               <item>Kettles ſtone to the Liberds head 14, 9.
+<list>
+                     <item>Thurloes roſe 13, 5.</item>
+                     <item>Turkes ſtake 10, 9.</item>
+                     <item>Long Meg 16, 2.</item>
+                     <item>Saplin by the Lion 17, 2.</item>
+                     <item>Lion 17, 18.</item>
+                     <item>Pigeon 13.</item>
+                     <item>Saplin by the Pigeon 12, 8.</item>
+                     <item>Graucleſſe lambe 11, 9.</item>
+                     <item>Hornebooke 15.</item>
+                     <item>Hales arbor 15, 13.</item>
+                     <item>Sheffe of arrowes 14, 12.</item>
+                     <item>Robinſon 11, 19.</item>
+                     <item>Cotton 16, 14.</item>
+                     <item>Crooked buſh 14, 18.</item>
+                     <item>Buſh by the Goldſmith 14.</item>
+                  </list>
+               </item>
+               <item>Kings arme to the ſtake at the ſtile 12, 10.
+<list>
+                     <pb n="51" facs="tcp:151888:29"/>
+                     <item>Target tree 13, 10.</item>
+                     <item>Beares head 16, 8.</item>
+                     <item>Robinſons leg 11, 8.</item>
+                     <item>Bailies bay 13, 17.</item>
+                     <item>Brewers apron 14, 14.</item>
+                     <item>Cat and fiddle 10.</item>
+                     <item>Crooked ſaplin 17, 3.</item>
+                     <item>Middle ſaplin 13, 14.</item>
+                  </list>
+               </item>
+               <item>Kings mace to the Sea-griphon 15, 12.
+<list>
+                     <item>Hariſon 13, 5.</item>
+                     <item>Gate by Hariſon 13, 12.</item>
+                     <item>Yong Powell 15, 12.</item>
+                     <item>Flint 17, 9.</item>
+                     <item>Flying horſe 10, 10.</item>
+                     <item>Mercers maid 11, 12.</item>
+                     <item>Buſh vnder buſh 13.</item>
+                     <item>Lion 14, 4.</item>
+                     <item>Barlow 15, 6.</item>
+                     <item>Bakers boy 16, 11.</item>
+                     <item>Humfrey Iames 18, 10.</item>
+                     <item>Robinſons arme 18.</item>
+                     <item>Hodges pleaſure 17, 8.</item>
+                     <item>Cuckoe 16, 8.</item>
+                     <item>Popes head 13, 18.</item>
+                     <item>Cocke 13, 9.</item>
+                     <item>Nightingale 12, 17.</item>
+                     <item>Boxes arme 12, 12.</item>
+                     <pb n="52" facs="tcp:151888:30"/>
+                     <item>Baſsings hall 14, 12.</item>
+                     <item>Cawdries coffer 16, 17.</item>
+                  </list>
+               </item>
+               <item>Kingſton bridge to Swan Wilcox 17, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.
+<list>
+                     <item>Candle 18.</item>
+                     <item>Whitehorne 16, 5.</item>
+                     <item>Brands boy 14, 6.</item>
+                     <item>Bings ſtake 11.</item>
+                     <item>Majors marigold 14.</item>
+                     <item>Tree by the Camell 14, 12.</item>
+                     <item>Camell 15.</item>
+                     <item>Graueleſſe lambe 16, 2.</item>
+                     <item>Saplin by the Pigeon 16, 13.</item>
+                     <item>Pigeon 18, 4.</item>
+                     <item>Parkins hare 18, 9.</item>
+                     <item>Hornebooke 13, 19.</item>
+                     <item>Rainbow 11, 7.</item>
+                     <item>Kings arme 15, 7.</item>
+                     <item>Daines delight 14, 18.</item>
+                     <item>Plaice 16, 2.</item>
+                     <item>Diogenes 15, 18.</item>
+                     <item>Whitbrooke 11, 17.</item>
+                     <item>Cat and fiddle 14, 9.</item>
+                     <item>Robinſons leg 16, 6.</item>
+                     <item>Bailies bay 17, 3.</item>
+                     <item>Brewers apron 17, 10.</item>
+                     <item>Pollin 16, 15.</item>
+                     <item>Corniſh chough 15, 13.</item>
+                     <pb n="53" facs="tcp:151888:30"/>
+                     <item>Bee-hiue 14, 12.</item>
+                     <item>Stake in the plaine 10, 18.</item>
+                     <item>Crooked ſaplin 17, 18.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>Lanterne to the Queenes ſtake 12, 18.
+<list>
+                     <item>Archdale 14.</item>
+                     <item>Hand and roſe 16, 12.</item>
+                     <item>Swan Wilcox 18, 7.</item>
+                     <item>Bings ſtake 18, 14.</item>
+                     <item>Robinſon 18, 18.</item>
+                     <item>Goldſmith 11, 13.</item>
+                     <item>Wolues head 10, 7.</item>
+                     <item>Mill 14, 15.</item>
+                     <item>Watergap 16, 15.</item>
+                     <item>Carters whip 17, 10.</item>
+                     <item>Mab 16, 12.</item>
+                     <item>Aſpinals ape 14, 18.</item>
+                     <item>Flint 13, 8.</item>
+                     <item>Yong Powell 12, 3.</item>
+                     <item>Gate by Hariſon 10, 12.</item>
+                     <item>Hariſon 10, 8.</item>
+                     <item>Watſon 9, 17.</item>
+                     <item>Star 17, 4.</item>
+                     <item>Robinſons arme 18, 9.</item>
+                     <item>Maidens bluſh 17, 12.</item>
+                     <item>Doues Redbreſt 16, 15.</item>
+                     <item>Quinies pillar 16.</item>
+                     <item>Houſe of Yorke 12, 4.</item>
+                     <pb n="54" facs="tcp:151888:31"/>
+                     <item>Vpper gardiner 14, 4.</item>
+                     <item>Rams head 15, 12.</item>
+                     <item>Huls pumpe 17, 4.</item>
+                  </list>
+               </item>
+               <item>Leaſe to Greenes ſtake 9, 17.
+<list>
+                     <item>Swan 12.</item>
+                     <item>Goldſmith 14, 17.</item>
+                     <item>Mill 16, 10.</item>
+                     <item>Wolues head 12.</item>
+                     <item>Carters whip 17, 13.</item>
+                     <item>Mab 16, 10.</item>
+                     <item>Aſpinals ape 14, 3.</item>
+                     <item>Flint 12, 5.</item>
+                     <item>Yong Powell 10, 9.</item>
+                     <item>Star 16, 6.</item>
+                     <item>Robinſons arme 17.</item>
+                     <item>Hodges pleaſure 17, 10.</item>
+                     <item>Cuckoe 18, 8.</item>
+                     <item>Buſh vnder buſh 17, 10.</item>
+                     <item>Mercers maid 16, 5.</item>
+                     <item>Flying horſe 15.</item>
+                     <item>Maidens bluſh 13, 13.</item>
+                     <item>Doues Redbreſt 12, 14.</item>
+                     <item>Quinies pillar 11, 15.</item>
+                     <item>Rams head 10, 15.</item>
+                     <item>Huls pumpe 12, 8.</item>
+                     <item>Cloth workers handle 14.</item>
+                     <item>Boxes leg 15, 5.</item>
+                     <pb n="55" facs="tcp:151888:31"/>
+                     <item>Houſe of honeſtie 18, 10.</item>
+                     <item>Snowball 17, 10.</item>
+                     <item>Kings mace 17.</item>
+                     <item>Siluer doue 18, 9.</item>
+                  </list>
+               </item>
+               <item>Lewer to Alhallowes 13, 10.
+<list>
+                     <item>Hawes 11, 8.</item>
+                     <item>Dickmans marigold 12, 12.</item>
+                     <item>Conie 17, 14.</item>
+                     <item>Rogers ſtake 16, 14.</item>
+                     <item>Sir Rowland 15, 12.</item>
+                     <item>Marſh 15.</item>
+                     <item>Fullers ſtake 14, 18.</item>
+                     <item>Dayes deede 15, 3.</item>
+                     <item>Saint Martins 16, 6.</item>
+                     <item>Stone by S. Martins 15, 10.</item>
+                     <item>Durhams boy 17, 3.</item>
+                     <item>Norington 15, 18.</item>
+                     <item>Red croſſe 13, 8.</item>
+                     <item>Coopers ſtake 15, 10.</item>
+                     <item>Nortriges hind 18, 16.</item>
+                  </list>
+               </item>
+               <item>Liberds head to Thurloes roſe 9, 16.
+<list>
+                     <item>Turkes ſtake 14, 3.</item>
+                     <item>Bricklayers ſiniall 11, 8.</item>
+                     <item>Bores head 11.</item>
+                     <item>Candle 15, 10.</item>
+                  </list>
+               </item>
+               <item>Lion to the Wolues head 17, 2.
+<list>
+                     <item>Mab 11, 11.</item>
+                     <pb n="56" facs="tcp:151888:32"/>
+                     <item>Carters whip 12, 3.</item>
+                     <item>Kingſton bridge 14, 7.</item>
+                     <item>Parkes his pleaſure 16.</item>
+                     <item>Cotton 18, 19.</item>
+                     <item>Ward 17, 9.</item>
+                     <item>Swans ſtake 16, 10.</item>
+                     <item>Hodges hart 16.</item>
+                     <item>Stirrop 16, 2.</item>
+                     <item>Martins monkie 16, 7.</item>
+                     <item>Whitbrooke 16, 10.</item>
+                     <item>Cat and fiddle 17, 9.</item>
+                     <item>Robinſons leg 17, 16.</item>
+                     <item>Bailies bay 16, 13.</item>
+                     <item>Brewers apron 16, 4.</item>
+                     <item>Pollin 11, 8.</item>
+                     <item>Crooked ſaplin 14, 5.</item>
+                     <item>Cawdries coffer 12, 1.</item>
+                     <item>Baſſings hall 10, 16.</item>
+                  </list>
+               </item>
+               <item>Lockleys mouth to <hi>Dickmans marigold</hi> 13, 12.
+<list>
+                     <item>Conie 18, 8.</item>
+                     <item>Rogers ſtake 16, 10.</item>
+                     <item>Sir Rowland 15, 4.</item>
+                     <item>Marſhes ſtake 14.</item>
+                     <item>Fullers ſtake 12, 9.</item>
+                     <item>Dayes deede 11, 16.</item>
+                     <item>Saint Martins 12, 2.</item>
+                     <item>Stone by Saint Martins 11, 3.</item>
+                     <pb n="57" facs="tcp:151888:32"/>
+                     <item>Durhams boy 12, 11.</item>
+                     <item>Houſe of Lancaſter 13, 15.</item>
+                     <item>Bankes his ſtake 14, 13.</item>
+                     <item>Mils his backe 16, 15.</item>
+                     <item>Sudlowes ſwan 14, 12.</item>
+                     <item>Doues ſtake 13, 1.</item>
+                     <item>Norington 10, 10.</item>
+                     <item>Coopers ſtake 10, 9.</item>
+                     <item>Nortriges hinde 13, 17.</item>
+                     <item>Hercules club 16, 10.</item>
+                  </list>
+               </item>
+               <item>London ſtone to Alhallowes 15, 2.
+<list>
+                     <item>Hawes 13, 3.</item>
+                     <item>Dickmans marigold 15, 6.</item>
+                     <item>Sir Rowland 18, 8.</item>
+                     <item>Marſhes ſtake 17, 16.</item>
+                     <item>Fullers ſtake 17, 9.</item>
+                     <item>Dayes deede 17, 12.</item>
+                     <item>Stone by S. Martins 17, 14.</item>
+                     <item>Saint Martins 18, 13.</item>
+                     <item>Norington 17.</item>
+                     <item>Red croſſe 14, 11.</item>
+                     <item>Cooper 16, 10.</item>
+                     <item>Vine 10, 3.</item>
+                  </list>
+               </item>
+               <item>Lurching ſtake to Hare in the vale 17, 12.
+<list>
+                     <item>Three cranes 17, 1.</item>
+                     <item>Bores head 17, 10.</item>
+                     <item>Horſelofe 15, 5.</item>
+                     <pb n="58" facs="tcp:151888:33"/>
+                     <item>Kettles ſtone 14, 14.</item>
+                     <item>Candle 14, 10.</item>
+                     <item>Swan Wilcox 12. 5,</item>
+                     <item>Hand and roſe 10, 6.</item>
+                     <item>Whitehorne 14, 12.</item>
+                     <item>Brands boy 14, 19.</item>
+                     <item>Majors marigold 17, 12.</item>
+                     <item>Bings ſtake 15, 18.</item>
+                     <item>Robinſon 17, 8.</item>
+                     <item>Watergap 16, 17.</item>
+                     <item>Mill 15, 11.</item>
+                     <item>Wolues head 13, 9.</item>
+                     <item>Goldſmith 11, 14.</item>
+                     <item>Brownes ſtake 13, 12.</item>
+                     <item>Egpie 15, 2.</item>
+                     <item>Sea-griphon 17, 9.</item>
+                     <item>Beſwikes ſtone 12.</item>
+                     <item>Leaſe 14, 12.</item>
+                     <item>Alloway 17, 8.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Mab to Whitehorne 18, 5.
+<list>
+                     <item>Brands boy 16, 9.</item>
+                     <item>Tree by the Camell 17, 9.</item>
+                     <item>Majors marigold 16, 11.</item>
+                     <item>Bings ſtake 13, 12.</item>
+                     <item>Robinſon 11, 6.</item>
+                     <item>Hornebooke 17, 8.</item>
+                     <item>Sheffe of arrowes 10, 12.</item>
+                     <pb n="59" facs="tcp:151888:33"/>
+                     <item>Hales arbor 12, 2.</item>
+                     <item>Perins paſt bruſh 10, 18.</item>
+                     <item>Rainbow 14, 12.</item>
+                     <item>Kings arme 18, 9.</item>
+                     <item>Daines delight 17, 10.</item>
+                     <item>Plaice 18, 3.</item>
+                     <item>Diogenes 17, 10.</item>
+                     <item>Martins Monkie 11, 9.</item>
+                     <item>Whitbrooke 13, 10.</item>
+                     <item>Cat and fiddle 15, 18.</item>
+                     <item>Robinſons leg 17, 9.</item>
+                     <item>Bailies bay 17, 15.</item>
+                     <item>Brewers apron 17, 18.</item>
+                     <item>Crooked ſaplin 17, 13.</item>
+                     <item>Pollin 16.</item>
+                     <item>Corniſh chough 14, 11.</item>
+                     <item>Bee-hiue 13.</item>
+                     <item>Humfrey Iames 12, 2.</item>
+                  </list>
+               </item>
+               <item>Maidens bluſh to Brownes ſtake 13, 18.
+<list>
+                     <item>Wolues head 16, 6.</item>
+                     <item>Kingſton bridge 17, 2.</item>
+                     <item>Carters whip 15.</item>
+                     <item>Mab 13. 12.</item>
+                     <item>Aſpinals ape 10, 18</item>
+                     <item>Star 10, 6.</item>
+                     <item>Stake in the plaine 11, 7.</item>
+                     <item>Humfrey Iames 11, 6.</item>
+                     <pb n="60" facs="tcp:151888:34"/>
+                     <item>Bee-hiue 13, 10.</item>
+                     <item>Corniſh chough 16, 3.</item>
+                     <item>Pollin 18.</item>
+                     <item>Cawdries coffer 15, 3.</item>
+                     <item>Baſſings hall 13, 4.</item>
+                     <item>Boxes arme 11, 16.</item>
+                  </list>
+               </item>
+               <item>Majors marigold to Thurlos roſe 17, 6.
+<list>
+                     <item>Bricklayers finiall 10.</item>
+                     <item>Turkes ſtake 12, 5.</item>
+                     <item>Long Meg 16, 9.</item>
+                     <item>Saplin by the Lion 16, 4.</item>
+                     <item>Lion 16, 1.</item>
+                     <item>Perins paſt bruſh 12, 18.</item>
+                     <item>Rainbow 15, 1.</item>
+                     <item>Cottons ſtake 10.</item>
+                     <item>Wards ſtake 12, 13.</item>
+                     <item>Swans ſtake 15, 2.</item>
+                     <item>Hodges hart 17, 15.</item>
+                     <item>Stirrop 18, 15.</item>
+                  </list>
+               </item>
+               <item>Marſhes ſtake to the Couſlip 11, 9.
+<list>
+                     <item>Pinder 10, 6.</item>
+                     <item>Queenes ſtake 11, 18.</item>
+                     <item>Archdale 15.</item>
+                     <item>Hand and roſe 18, 17.</item>
+                     <item>Swan harneſt man 16, 19.</item>
+                     <item>Greenes ſtake 14, 2.</item>
+                     <item>Martins May-flower 12, 13.</item>
+                     <pb n="61" facs="tcp:151888:34"/>
+                     <item>Nelſon 10, 12.</item>
+                     <item>Lanterne 12, 6.</item>
+                     <item>Beſwikes ſtone 13, 15.</item>
+                     <item>Leaſe 15, 16.</item>
+                     <item>Alloway 18, 4.</item>
+                     <item>Saint Martins 9, 17.</item>
+                     <item>Durhams boy 12, 5.</item>
+                     <item>Houſe of Lancaſter 15, 9.</item>
+                     <item>Bankes his ſtake 17, 10.</item>
+                  </list>
+               </item>
+               <item>Martins May-flower to Archdale 9, 10.
+<list>
+                     <item>Hand and roſe 12, 6.</item>
+                     <item>Swan Wilcox 14.</item>
+                     <item>Kettles ſtone 18.</item>
+                     <item>Candle 16, 16.</item>
+                     <item>Whitehorne 15, 16.</item>
+                     <item>Brands boy 15, 1.</item>
+                     <item>Majors marigold 17, 10.</item>
+                     <item>Bings ſtake 14, 10.</item>
+                     <item>Robinſon 15.</item>
+                     <item>Sheffe of arrowes 16.</item>
+                     <item>Watergap 13. 8.</item>
+                     <item>Mill 10, 15.</item>
+                     <item>Cotton 17, 11.</item>
+                     <item>Parkes his pleaſure 18.</item>
+                     <item>Kingſton bridge 16, 17.</item>
+                     <item>Carters whip 16.</item>
+                     <item>Mab 15.</item>
+                     <pb n="62" facs="tcp:151888:35"/>
+                     <item>Star 16, 15.</item>
+                     <item>Aſpinals ape 14, 4.</item>
+                     <item>Flint 13, 11.</item>
+                     <item>Yong Powell 13.</item>
+                     <item>Sea-griphon 10, 10.</item>
+                     <item>Hariſon 12, 8.</item>
+                     <item>Watſon 12.</item>
+                     <item>Goſſon 12, 18.</item>
+                  </list>
+               </item>
+               <item>Martins monkie to the Tree by the gate, 15, 6.
+<list>
+                     <item>Pillar of Paules 12, 13.</item>
+                     <item>Stake at the Stile 12, 9.</item>
+                     <item>Target tree 12, 15.</item>
+                     <item>Beares head 14, 1.</item>
+                     <item>Brewers apron 9, 10.</item>
+                     <item>Crooked ſaplin 11, 2.</item>
+                     <item>Pollin 11, 4.</item>
+                     <item>Corniſh chough 11, 9.</item>
+                  </list>
+               </item>
+               <item>Mercers maid to the Wolues head 16, 8.
+<list>
+                     <item>Aſpinals ape 9, 16.</item>
+                     <item>Mab 12, 12.</item>
+                     <item>Carters whip 13, 10.</item>
+                     <item>Kingſton bridge 15, 8.</item>
+                     <item>Parkes his pleaſure 17, 3.</item>
+                     <item>Warde 18, 16.</item>
+                     <item>Swans ſtake 18, 5.</item>
+                     <item>Hodges hart 18.</item>
+                     <item>Stirrop 18, 8.</item>
+                     <pb n="63" facs="tcp:151888:35"/>
+                     <item>Crooked ſaplin 17, 10.</item>
+                     <item>Pollin 14, 10.</item>
+                     <item>Corniſh chough 12, 16.</item>
+                     <item>Bee-hiue 10, 2.</item>
+                     <item>Cawdries coffer 13, 6.</item>
+                     <item>Baſſings hall 10, 15.</item>
+                     <item>Boxes arme 10, 11.</item>
+                  </list>
+               </item>
+               <item>Mils his backe to the Diall 18, 5.
+<list>
+                     <item>Nelſon 15, 10.</item>
+                     <item>Martins May-flower 16, 12.</item>
+                     <item>Greenes ſtake 18.</item>
+                     <item>Lanterne 12, 11.</item>
+                     <item>Beſwikes ſtone 10, 8.</item>
+                     <item>Brownesſtake 17.</item>
+                     <item>Egpie 13, 10.</item>
+                     <item>Sea-griphon 13.</item>
+                     <item>Yong Powell 16, 3.</item>
+                     <item>Gate by Hariſon 12, 15.</item>
+                     <item>Hariſon 11, 18.</item>
+                     <item>Watſon 9, 17.</item>
+                     <item>Flying horſe 17, 18.</item>
+                     <item>Maidens bluſh 16.</item>
+                     <item>Doues Redbreſt 14, 6.</item>
+                     <item>Quinies pillar 12, 8.</item>
+                     <item>Rams head 10, 18.</item>
+                     <item>Huls pumpe 11, 10.</item>
+                     <item>Clothworkers handle 12, 10.</item>
+                     <pb n="64" facs="tcp:151888:36"/>
+                     <item>Boxes leg 13, 4.</item>
+                     <item>Kempton 18, 9.</item>
+                     <item>Houſe of honeſty 17, 6.</item>
+                     <item>Snowball 15, 11.</item>
+                     <item>Kings mace 14, 9.</item>
+                     <item>Siluer doue 15, 9.</item>
+                     <item>Quinies faulchin 17, 19.</item>
+                     <item>Blacke Nan 18, 18.</item>
+                  </list>
+               </item>
+               <item>Mill to Swan Wilcox 10, 14.
+<list>
+                     <item>Bores head 17, 14.</item>
+                     <item>Horſelofe 16, 12.</item>
+                     <item>Kettles ſtone 14, 4.</item>
+                     <item>Candle 12, 4.</item>
+                     <item>Whitehorne 10, 10.</item>
+                     <item>Parkins hare 15, 4.</item>
+                     <item>Tree by the Camell 10, 15.</item>
+                     <item>Camell 11, 15.</item>
+                     <item>Graueleſſe lambe 13, 10.</item>
+                     <item>Saplin by the Pigeon 14.</item>
+                     <item>Pigeon 16, 5.</item>
+                     <item>Hornebooke 13, 9.</item>
+                     <item>Perins paſt bruſh 10, 8.</item>
+                     <item>Swans ſtake 10, 8.</item>
+                     <item>Hodges hart 13, 7.</item>
+                     <item>Stirrop 14, 8.</item>
+                     <item>Martins monkie 15, 10.</item>
+                     <item>Whitbrooke 18.</item>
+                     <pb n="65" facs="tcp:151888:36"/>
+                     <item>Stake in the plaine 16, 16.</item>
+                  </list>
+               </item>
+               <item>Mouth to Yomanſon 17.
+<list>
+                     <item>London ſtone 18, 3.</item>
+                     <item>Vent ſtone 17, 6.</item>
+                     <item>Waterbearer 16, 17.</item>
+                     <item>Stump by Sonday hil 17, 1.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>Nelſon to Archdale 11, 5.
+<list>
+                     <item>Hand and roſe 13. 18.</item>
+                     <item>Swan Wilcox 15, 15.</item>
+                     <item>Candle 18, 2.</item>
+                     <item>Whitehorne 17, 12.</item>
+                     <item>Brands boy 17, 4.</item>
+                     <item>Bings ſtake 16, 19.</item>
+                     <item>Robinſon 17, 10.</item>
+                     <item>Watergap 15, 15.</item>
+                     <item>Mill 13, 19.</item>
+                     <item>Goldſmith 10, 9.</item>
+                     <item>Wolues head 10, 2.</item>
+                     <item>Mab 17, 4.</item>
+                     <item>Aſpinals ape 16.</item>
+                     <item>Flint 14, 17.</item>
+                     <item>Young Powell 14, 3.</item>
+                     <item>Sea-griphon 11, 6.</item>
+                     <item>Gate by Hariſon 13, 2.</item>
+                     <item>Hariſon 13.</item>
+                     <item>Watſon 12, 16.</item>
+                     <item>Houſe of Yorke 15, 5.</item>
+                     <pb n="66" facs="tcp:151888:37"/>
+                     <item>Vpper gardiner 17, 5.</item>
+                     <item>Goſſon 12, 12.</item>
+                     <item>Alloway 11.</item>
+                  </list>
+               </item>
+               <item>Nightingale to the Bee-hiue 10, 9.
+<list>
+                     <item>Corniſh chough 12, 4.</item>
+                     <item>Pollin 13, 11.</item>
+                     <item>Crooked ſaplin 16, 5.</item>
+                  </list>
+               </item>
+               <item>Norington by the co<g ref="char:cmbAbbrStroke">̄</g>dit to Dickmans ma<g ref="char:EOLhyphen"/>rigold 16, 5.
+<list>
+                     <item>Sir Rowland 17, 7.</item>
+                     <item>Marſhes ſtake 15, 17.</item>
+                     <item>Fullers ſtake 13, 15.</item>
+                     <item>Dayes deed 12, 12.</item>
+                     <item>Stone by Saint Martins 11.</item>
+                     <item>Saint Martins 11, 17.</item>
+                     <item>Durhams boy 11, 16.</item>
+                     <item>Houſe of Lancaſter 12, 5.</item>
+                     <item>Bankes his ſtake 12, 18.</item>
+                     <item>Theefe in the hedge 17, 2.</item>
+                     <item>Mils his backe 14, 15.</item>
+                     <item>Sudlowes ſwan 12, 8.</item>
+                     <item>Doues ſtake 10, 15.</item>
+                     <item>Founders ſonne 17, 17.</item>
+                     <item>Nortriges hind 10, 17.</item>
+                     <item>Hercules club 13, 18.</item>
+                     <item>Tree by Hercules 17, 16.</item>
+                  </list>
+               </item>
+               <item>Norington to Marſhes ſtake 17, 15.
+<list>
+                     <item>Fullers ſtake 14, 14.</item>
+                     <pb n="67" facs="tcp:151888:37"/>
+                     <item>Dayes deed 12, 9.</item>
+                     <item>Nelſon 18.</item>
+                     <item>Lanterne 15, 18.</item>
+                     <item>Beſwikes ſtone 14, 10.</item>
+                     <item>Leaſe 13, 8.</item>
+                     <item>Alloway 12, 16.</item>
+                     <item>Watſon 16, 10.</item>
+                     <item>Houſe of Yorke 16, 18.</item>
+                     <item>Vpper gardiner 17, 8.</item>
+                     <item>Rams head 18, 1.</item>
+                     <item>Huls pumpe 18, 8.</item>
+                     <item>Goſſon 15, 1.</item>
+                     <item>Amias backe 11, 10.</item>
+                     <item>Theefe in the hedge 10.</item>
+                     <item>Foundersſonne 10, 5.</item>
+                     <item>Tree by Hercules 12, 10.</item>
+                  </list>
+               </item>
+               <item>Nortriges hind to Dayes deed 17, 18.
+<list>
+                     <item>Saint Martins 15.</item>
+                     <item>Stone by Saint Martins 14, 12.</item>
+                     <item>Durhams boy 13.</item>
+                     <item>Houſe of Lancaſter 10, 16.</item>
+                     <item>Leaſe 17, 15.</item>
+                     <item>Alloway 16, 10.</item>
+                     <item>Goſſon 18, 3.</item>
+                     <item>Amias backe 14, 10.</item>
+                     <item>Theeſe in the hedge 13.</item>
+                     <item>Mils his backe 9, 18.</item>
+                     <pb n="68" facs="tcp:151888:38"/>
+                     <item>Bridge by the Stocks 16, 16.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>Parkins hare to Thurloes roſe 13, 8.
+<list>
+                     <item>Long Meg 10, 10.</item>
+                     <item>Lion 10, 3.</item>
+                     <item>Hales arbor 10, 16.</item>
+                     <item>Perins paſt bruſh 15, 4.</item>
+                     <item>Rainbow 16.</item>
+                     <item>Sheffe of arrowes 11, 7.</item>
+                     <item>Warde 16, 5.</item>
+                     <item>Swans ſtake 18, 7.</item>
+                  </list>
+               </item>
+               <item>Parks his pleaſure to the Candle 17, 8.
+<list>
+                     <item>Whitehorne 15, 10.</item>
+                     <item>Brands boy 13, 10.</item>
+                     <item>Bings ſtake 10, 11.</item>
+                     <item>Majors marigold 12, 19.</item>
+                     <item>Tree by the Camell 13, 7.</item>
+                     <item>Camell 13, 15.</item>
+                     <item>Parkins hare 17.</item>
+                     <item>Stone 17, 10.</item>
+                     <item>Graueleſſe lambe 14, 10.</item>
+                     <item>Saplin by the Pigeon 15, 3</item>
+                     <item>Pigeon 16, 11.</item>
+                     <item>Hornebooke 12, 1.</item>
+                     <item>Kings arme 14.</item>
+                     <item>Daines delight 13, 12.</item>
+                     <item>Plaice 15, 3.</item>
+                     <item>Diogenes 15, 5.</item>
+                     <pb n="69" facs="tcp:151888:38"/>
+                     <item>Whitbrooke 11, 5.</item>
+                     <item>Cat and fiddle 14.</item>
+                     <item>Robinſons leg 16.</item>
+                     <item>Baylies bay 17.</item>
+                     <item>Brewers apron 17, 10.</item>
+                     <item>Crooked ſaplin 18, 2.</item>
+                     <item>Pollin 17, 3.</item>
+                     <item>Corniſh chough 16, 9.</item>
+                     <item>Bee-hiue 15, 10.</item>
+                     <item>Humfrey Iames 15, 6.</item>
+                  </list>
+               </item>
+               <item>Perins paſt bruſh to the Pigeon 13, 9.
+<list>
+                     <item>Plaice 11, 13.</item>
+                     <item>Diogenes 12, 12.</item>
+                     <item>Pillar of Paules 17.</item>
+                     <item>Stake at the ſtile 18, 4.</item>
+                     <item>Cat and fiddle 12, 3.</item>
+                     <item>Robinſons leg 14, 5.</item>
+                     <item>Bailies bay 16.</item>
+                     <item>Brewers apron 16, 15.</item>
+                     <item>Crooked ſaplin 18, 5.</item>
+                     <item>Pollin 18.</item>
+                     <item>Corniſh chough 17, 18.</item>
+                     <item>Bee-hiue 17, 18.</item>
+                  </list>
+               </item>
+               <item>Pew doore to Saint Giles 9, 7.
+<list>
+                     <item>Robinhood 9, 9.</item>
+                     <item>Saint Botulphs 10, 4.</item>
+                     <item>Yomanſon 17, 16.</item>
+                     <pb n="70" facs="tcp:151888:39"/>
+                     <item>London ſtone 19, 12.</item>
+                     <item>Vent ſtone 18, 7.</item>
+                     <item>Waterbearer 18.</item>
+                     <item>Puttocke 19, 12.</item>
+                     <item>Stumpe 18.</item>
+                  </list>
+               </item>
+               <item>Pigeon to Kings arme 16, 13.
+<list>
+                     <item>Rainbow 13. 3.</item>
+                  </list>
+               </item>
+               <item>Pillar of Paules to Carington 10, 18.
+<list>
+                     <item>Blacke boy 12, 8.</item>
+                  </list>
+               </item>
+               <item>Pinder to the Hare in the vale 14, 15.
+<list>
+                     <item>Three cranes 14, 9.</item>
+                     <item>Bores head 15, 5.</item>
+                     <item>Bricklayers finiall 18.</item>
+                     <item>Horſelofe 13.</item>
+                     <item>Kettles ſtone 12, 17.</item>
+                     <item>Candle 13.</item>
+                     <item>Swan Wilcox 10, 18.</item>
+                     <item>Whitehorne 13, 7.</item>
+                     <item>Brands boy 14.</item>
+                     <item>Majors marigold 16, 10.</item>
+                     <item>Tree by the Camel 18, 9.</item>
+                     <item>Bings ſtake 15, 10.</item>
+                     <item>Robinſon 17, 6.</item>
+                     <item>Watergap 17, 7.</item>
+                     <item>Mill 16, 4.</item>
+                     <item>Goldſmith 12, 13.</item>
+                     <item>Swan harneſt man 10, 17.</item>
+                     <pb n="71" facs="tcp:151888:39"/>
+                     <item>Wolues head 15.</item>
+                     <item>Brownes ſtake 15, 12.</item>
+                     <item>Egpie 17, 11.</item>
+                     <item>Lanterne 12, 10.</item>
+                     <item>Beſwikes ſtone 14, 17.</item>
+                     <item>Leaſe 17, 9.</item>
+                  </list>
+               </item>
+               <item>Piper to Maidens bluſh 15.
+<list>
+                     <item>Flying horſe 15, 12.</item>
+                     <item>Mercers maid 16, 6.</item>
+                     <item>Buſh vnder buſh 17, 1.</item>
+                     <item>Lion 17, 18.</item>
+                     <item>Popes head 15, 11.</item>
+                     <item>Cocke 14, 10.</item>
+                     <item>Nightingale 12, 12.</item>
+                     <item>Boxes arme 10, 17.</item>
+                     <item>Baſſings hall 12, 12.</item>
+                     <item>Cawdries coffer 14, 5.</item>
+                  </list>
+               </item>
+               <item>Plaice to Carington 14, 17.
+<list>
+                     <item>Blacke boy 16, 10.</item>
+                     <item>Beares head 10, 2.</item>
+                     <item>Crooked ſaplin 11, 8.</item>
+                     <item>Hariſons ſaplin 15, 10.</item>
+                     <item>Three ſaplins 16, 10.</item>
+                     <item>Simſons ſaplin 17, 8.</item>
+                  </list>
+               </item>
+               <item>Pollins ſtake to Kings arme 18, 8.
+<list>
+                     <item>Daines delight 15, 15.</item>
+                     <item>Plaice 13, 2.</item>
+                     <pb n="72" facs="tcp:151888:40"/>
+                     <item>Diogenes 10, 14.</item>
+                     <item>Pillar of Paules 17.</item>
+                     <item>Stake at the ſtile 13, 1.</item>
+                     <item>Target tree 12, 7.</item>
+                     <item>Beares head 10, 12.</item>
+                  </list>
+               </item>
+               <item>Popes head to Mab 15, 10.
+<list>
+                     <item>Carters whip 16, 5.</item>
+                     <item>Kingſton bridge 18, 2.</item>
+                     <item>Hodges hart 18, 10.</item>
+                     <item>Sirrop 18, 11.</item>
+                     <item>Robinſons legge 18, 13.</item>
+                     <item>Baylies bay 17.</item>
+                     <item>Brewers apron 16, 6.</item>
+                     <item>Crooked ſaplin 13, 18.</item>
+                     <item>Pollin 11, 2.</item>
+                  </list>
+               </item>
+               <item>Princes ſtake to Yomanſon 14, 5.
+<list>
+                     <item>London ſtone 15, 7.</item>
+                     <item>Vent ſtone 14.</item>
+                     <item>Lewer 18.</item>
+                     <item>Waterbearer 13, 12.</item>
+                     <item>Puttocke 16.</item>
+                     <item>Stumpe 16, 7.</item>
+                     <item>Sonday hill 18.</item>
+                  </list>
+               </item>
+               <item>Puttocke to Yomanſon 15, 14.
+<list>
+                     <item>London ſtone 9, 12.</item>
+                     <item>Lewer 11, 8.</item>
+                     <item>Humfreys ſtake 16, 13.</item>
+                     <pb n="73" facs="tcp:151888:40"/>
+                     <item>Weeping croſſe 13, 3.</item>
+                     <item>Saunders backe 12, 8.</item>
+                     <item>Lockleys mouth 11, 9.</item>
+                     <item>Norington by the condit 10, 12.</item>
+                     <item>Vine 10.</item>
+                     <item>Red croſſe 14, 10.</item>
+                     <item>Norington 16, 10.</item>
+                     <item>Cooper 14, 6.</item>
+                     <item>Nortriges hind 15, 12.</item>
+                     <item>Hercules club 17, 10.</item>
+                     <item>Spindle 10, 19.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Q</head>
+               <item>Queenes ſtake to the hare in the vale 14, 9.
+<list>
+                     <item>Three cranes 13, 7.</item>
+                     <item>Bores head 13, 19.</item>
+                     <item>Bricklayers finiall 16, 10.</item>
+                     <item>Horſelofe 11, 12.</item>
+                     <item>Kettles ſtone 11, 4.</item>
+                     <item>Candle 11, 7.</item>
+                     <item>Whitehorne 11, 13.</item>
+                     <item>Brands boy 12, 7.</item>
+                     <item>Majors marigold 15, 2.</item>
+                     <item>Tree by the Camell 16, 15.</item>
+                     <item>Camell 18.</item>
+                     <item>Bings ſtake 13, 16.</item>
+                     <item>Robinſon 15, 16.</item>
+                     <item>Watergap 15, 18.</item>
+                     <item>Mill 14, 14.</item>
+                     <pb n="74" facs="tcp:151888:41"/>
+                     <item>Goldſmith 11, 8.</item>
+                     <item>Swans harneſt man 10.</item>
+                     <item>Wolus head 14.</item>
+                     <item>Brownes ſtake 15.</item>
+                     <item>Egpie 17, 4.</item>
+                  </list>
+               </item>
+               <item>Quinies faulchin to Hariſon 18.
+<list>
+                     <item>Quinies piller 11, 18.</item>
+                     <item>Doues Redbreſt 12, 10.</item>
+                     <item>Maidens bluſh 13, 4.</item>
+                     <item>Flying horſe 14, 5.</item>
+                     <item>Mercers mayd 15, 4.</item>
+                     <item>Buſh vnder buſh 16, 8.</item>
+                     <item>Lyon 17, 10.</item>
+                     <item>Barlow 18, 8.</item>
+                     <item>Popes head 16.</item>
+                     <item>Cocke 15, 3.</item>
+                     <item>Nightingale 13, 16.</item>
+                     <item>Boxes arme 12, 14.</item>
+                     <item>Baſſings hall 14, 12.</item>
+                     <item>Cawdries coffer 16, 11.</item>
+                  </list>
+               </item>
+               <item>Quinies piller to the Egpie 10, 15.
+<list>
+                     <item>Brownes-ſtake 13, 18.</item>
+                     <item>Wolues head 16, 18.</item>
+                     <item>Flint 11, 4.</item>
+                     <item>Aſpinals ape 12, 18.</item>
+                     <item>Mab 15, 19.</item>
+                     <item>Carters whip 16, 17.</item>
+                     <pb n="75" facs="tcp:151888:41"/>
+                     <item>Star 13, 1.</item>
+                     <item>Robinſons arme 12; 91 11</item>
+                     <item>Hodges pleaſure 11, 19.</item>
+                     <item>Cuckoe 11, 12.</item>
+                     <item>Stake in the plaine 15.</item>
+                     <item>Lion 10, 10.</item>
+                     <item>Barlow 11, 11.</item>
+                     <item>Bakers boy 13.</item>
+                     <item>Humfrey lames 15, 2.</item>
+                     <item>Bee-hiue 17, 7.</item>
+                     <item>Popes head 12.</item>
+                     <item>Cocke 12, 7.</item>
+                     <item>Nightingale 13.</item>
+                     <item>Boxes arme 14, 5.</item>
+                     <item>Baſſings hall 16.</item>
+                     <item>Cawdries coffer 18.</item>
+                     <item>Piper 14, 11.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Rainbow to Diogenes 11, 3.
+<list>
+                     <item>Stake at the ſtille 16, 5.</item>
+                     <item>Target tree 17.</item>
+                     <item>Robinſons leg 13, 7.</item>
+                     <item>Bailies bay 15, 9.</item>
+                     <item>Brewers apron 16, 8.</item>
+                     <item>Cat and fiddle 11, 7.</item>
+                     <item>Pollin 18, 17.</item>
+                  </list>
+               </item>
+               <item>Rams head to the Egpie 11.
+<list>
+                     <item>Brownes ſtake 14, 8.</item>
+                     <pb n="76" facs="tcp:151888:42"/>
+                     <item>Wolues head 17, 11.</item>
+                     <item>Flint <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</item>
+                     <item>Aſpinals ape 14, 1.</item>
+                     <item>Mab 17.</item>
+                     <item>Star 14, 7.</item>
+                     <item>Robinſons arme 13, 18.</item>
+                     <item>Hodges pleaſure 13, 8.</item>
+                     <item>Cuckoe 13.</item>
+                     <item>Stake in the plaine 16, 10.</item>
+                     <item>Buſh vnder buſh 10, 10.</item>
+                     <item>Lion 11, 18.</item>
+                     <item>Barlow 13, 1.</item>
+                     <item>Bakers boy 14, 10,</item>
+                     <item>Humfrey Iames 16, 12.</item>
+                     <item>Popes head 13, 9.</item>
+                     <item>Cocke 13, 14.</item>
+                     <item>Nightingale 14, 7.</item>
+                     <item>Boxes arme 15, 4.</item>
+                     <item>Baſſings hall 17.</item>
+                     <item>Piper 14, 11.</item>
+                     <item>Blacke Nan 12, 8.</item>
+                     <item>Quinies faulchin 11, 11.</item>
+                  </list>
+               </item>
+               <item>Red croſſe to Dickmans marigold 17.
+<list>
+                     <item>Marſhes ſtake 17, 17.</item>
+                     <item>Fullers ſtake 14,</item>
+                     <item>Dayes deede 11, 18.</item>
+                     <item>Nelſon 18, 9.</item>
+                     <pb n="77" facs="tcp:151888:42"/>
+                     <item>Lanterne 16, 14.</item>
+                     <item>Beſwikes ſtone 15, 8.</item>
+                     <item>Leaſe 14, 15.</item>
+                     <item>Alloway 14, 9.</item>
+                     <item>Theefe in the hedge 12.</item>
+                     <item>Amias backe 13, 8.</item>
+                     <item>Goſſon 16, 18.</item>
+                     <item>Watſon 18, 7.</item>
+                     <item>Founders ſonne 12, 8.</item>
+                     <item>Tree by hercules 14.</item>
+                  </list>
+               </item>
+               <item>Robinhood to Hawes 17, 13.
+<list>
+                     <item>Humfreys ſtake 15, 8.</item>
+                     <item>Weeping croſſe 16.</item>
+                     <item>Saunders backe 16, 18.</item>
+                     <item>Lockleys mouth 17, 10.</item>
+                     <item>Lewer 13.</item>
+                     <item>London ſtone 10, 10.</item>
+                     <item>Vent ſtone 9, 10.</item>
+                     <item>Waterbearer 11, 1.</item>
+                     <item>Nuns head 12.</item>
+                     <item>Puttocke 13, 19.</item>
+                     <item>Robin redbreſt 16, 15.</item>
+                  </list>
+               </item>
+               <item>Robin redbreſt to Humfreys ſtake 15, 14.
+<list>
+                     <item>Weeping croſſe 11, 12.</item>
+                     <item>Saunders backe 10, 3.</item>
+                     <item>Red croſſe 11, 14.</item>
+                     <item>Norington 13.</item>
+                     <pb n="78" facs="tcp:151888:43"/>
+                     <item>Doues ſtake 15.</item>
+                     <item>Sudlowes ſwan 16, 13.</item>
+                     <item>Stone by S. Martins 18.</item>
+                     <item>Saint Martins 18, 18.</item>
+                     <item>Durhams boy 18, 8.</item>
+                     <item>Houſe of Lancaſter 18.</item>
+                     <item>Bankes 18, 2.</item>
+                     <item>Cooper 10, 8.</item>
+                     <item>Nortriges hinde 11, 18.</item>
+                     <item>Hercules club 14.</item>
+                     <item>Tree by Hercules 16, 5.</item>
+                     <item>Stocks 17, 7.</item>
+                     <item>Bridge by the ſtockes 18.</item>
+                  </list>
+               </item>
+               <item>Robinſon to the Bores head 15, 2.
+<list>
+                     <item>Bricklayers finiall 15, 12.</item>
+                     <item>Turkes ſtake 17, 12.</item>
+                     <item>Pigeon 11, 11.</item>
+                     <item>Rainbow 12, 12.</item>
+                     <item>Kings arme 17, 11.</item>
+                     <item>Daines delight 18, 8.</item>
+                     <item>Swans ſtake 10, 12.</item>
+                     <item>Hodges hart 13, 5.</item>
+                     <item>Stirrop 14, 7.</item>
+                     <item>Martins monkie 15, 11.</item>
+                     <item>Whitbrooke 18.</item>
+                  </list>
+               </item>
+               <item>Robinſons arme to the Mill 12, 18.
+<list>
+                     <item>Watergap 14.</item>
+                     <pb n="79" facs="tcp:151888:43"/>
+                     <item>Robinſon 16, 18.</item>
+                     <item>Sheffe of arrowes 16.</item>
+                     <item>Cottons ſtake 13, 4.</item>
+                     <item>Hales arbor 17, 10.</item>
+                     <item>Perins paſt bruſh 14, 19.</item>
+                     <item>Rainbow 18, 5.</item>
+                     <item>Parkes his pleaſure 10, 8.</item>
+                     <item>Wardes ſtake 12.</item>
+                     <item>Swans ſtake 11, 10.</item>
+                     <item>Hodges hart 11, 9.</item>
+                     <item>Stirrop 12, 3.</item>
+                     <item>Martins monky 11, 11.</item>
+                     <item>Whitbrooke 14, 3.</item>
+                     <item>Cat and fiddle 15, 11.</item>
+                     <item>Diogenes 17, 12.</item>
+                     <item>Robinſons leg 16, 13.</item>
+                     <item>Bailies bay 16, 4.</item>
+                     <item>Brewers apron 16.</item>
+                     <item>Crooked ſaplin 15.</item>
+                     <item>Pollin 12, 12.</item>
+                     <item>Corniſh chough 11.</item>
+                     <item>Three ſaplins 13, 10.</item>
+                     <item>Hariſons ſaplin 13, 7.</item>
+                     <item>Cocke 11, 4.</item>
+                     <item>Nightingale 13, 12.</item>
+                     <item>Boxes arme 16, 2.</item>
+                     <item>Cawdries coffer 17, 12.</item>
+                     <pb n="80" facs="tcp:151888:44"/>
+                     <item>Baſſings hall 16, 11.</item>
+                  </list>
+               </item>
+               <item>Robinſons leg to the tree at the gate 16.
+<list>
+                     <item>Carington 13, 11.</item>
+                     <item>Blacke boy 14.</item>
+                     <item>Hariſons ſaplin 10, 10.</item>
+                     <item>Three ſaplins 11, 11.</item>
+                     <item>Simſons ſaplin 12, 10.</item>
+                  </list>
+               </item>
+               <item>Rogers ſtake to the two trees 14, 17.
+<list>
+                     <item>Archdale 15.</item>
+                     <item>Queenes ſtake 11.</item>
+                     <item>Pinder 9, 8.</item>
+                     <item>Lurching ſtake 9, 10.</item>
+                     <item>Diall 11.</item>
+                     <item>Greenes ſtake 16, 3.</item>
+                     <item>Martins May-flower 15, 4.</item>
+                     <item>Nelſon 13, 8.</item>
+                     <item>Lanterne 15, 5.</item>
+                     <item>Beſwikes ſtone 17, 2.</item>
+                     <item>Dayes deed 10, 3.</item>
+                     <item>Saint Martins 14.</item>
+                  </list>
+               </item>
+               <item>Rolfes ſtone to Saint Giles 14, 5.
+<list>
+                     <item>Robinhood 13, 12.</item>
+                     <item>S. Botulphes 11, 18.</item>
+                     <item>Waterbearer 17, 13.</item>
+                     <item>Puttocke 18, 18.</item>
+                     <item>Stumpe 11, 5.</item>
+                     <item>Sonday hill 13, 13.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <pb n="81" facs="tcp:151888:44"/>
+               <head>S.</head>
+               <item>Saint Botulphs to Hawes 18, 19.
+<list>
+                     <item>Humfreys ſtake 15, 10.</item>
+                     <item>Lewer 12, 2.</item>
+                     <item>Weeping croſſe 15, 12.</item>
+                     <item>Saunders backe 16, 4.</item>
+                     <item>Lockleys mouth 16, 16.</item>
+                     <item>Norington 18, 6.</item>
+                     <item>Gate by Litle Iohn 16.</item>
+                     <item>Robin redbreſt 14, 13.</item>
+                     <item>Puttocke 11, 13.</item>
+                  </list>
+               </item>
+               <item>Saint Giles to Humfreys ſtake 15, 10.
+<list>
+                     <item>Lewer 13, 14.</item>
+                     <item>Weeping croſſe 16, 16.</item>
+                     <item>London ſtone 11, 10.</item>
+                     <item>Vent ſtone 10, 13.</item>
+                     <item>Saunders backe 17, 10.</item>
+                     <item>Lockleys mouth 17, 13.</item>
+                     <item>Waterbearer 12, 12.</item>
+                     <item>Nuns head 13, 13.</item>
+                     <item>Puttocke 15, 10.</item>
+                     <item>Robin redbreſt 18, 5.</item>
+                  </list>
+               </item>
+               <item>Saint Martins to the Couſlip 18, 3.
+<list>
+                     <item>Pinder 16, 2.</item>
+                     <item>Queenes ſtake 17, 1.</item>
+                     <item>Lurching ſtake 13, 7.</item>
+                     <item>Diall 10, 16.</item>
+                     <item>Martins May-flower 11.</item>
+                     <pb n="82" facs="tcp:151888:45"/>
+                     <item>Greenes ſtake 12, 19.</item>
+                     <item>Swan 16.</item>
+                     <item>Wolues head 17, 18.</item>
+                     <item>Brownes ſtake 15, 4.</item>
+                     <item>Egpie 13, 8.</item>
+                     <item>Sea-griphon 14, 15.</item>
+                     <item>Yong Powell 18, 3.</item>
+                     <item>Gate by Hariſon 15, 10.</item>
+                     <item>Hariſon 14, 18.</item>
+                     <item>Watſon 13, 8.</item>
+                     <item>Houſe of Yorke 15.</item>
+                     <item>Vpper gardiner 16, 12.</item>
+                     <item>Rams head 17, 17.</item>
+                     <item>Goſſon 12, 8.</item>
+                     <item>Amias backe 10, 9.</item>
+                     <item>Founders ſonne 16, 4.</item>
+                  </list>
+               </item>
+               <item>Saunders back to Dikmans marigold 12, 3
+<list>
+                     <item>Conie 17.</item>
+                     <item>Rogers ſtake 15, 9.</item>
+                     <item>Sir Rowland 14.</item>
+                     <item>Marſh 12, 17.</item>
+                     <item>Fuller 11, 15.</item>
+                     <item>Dayes deede 11, 10.</item>
+                     <item>Saint Martins 12, 8.</item>
+                     <item>Stone by Saint Martins 11, 8.</item>
+                     <item>Durhams boy 13, 2.</item>
+                     <item>Houſe of Lancaſter 14, 10.</item>
+                     <pb n="83" facs="tcp:151888:45"/>
+                     <item>Bankes his ſtake 15, 16.</item>
+                     <item>Mils his backe 17, 17.</item>
+                     <item>Sudlowesſwan 16.</item>
+                     <item>Doues ſtake 14, 9.</item>
+                     <item>Norington 11, 18.</item>
+                     <item>Red croſſe 9, 12.</item>
+                     <item>Cooper 12, 3.</item>
+                     <item>Nortriges hinde 15, 8.</item>
+                     <item>Hercules club 18, 10.</item>
+                  </list>
+               </item>
+               <item>Sawpit to Yomanſon 14.
+<list>
+                     <item>Lewer 18, 19.</item>
+                     <item>London ſtone 16, 10.</item>
+                     <item>Vent ſtone 15, 8.</item>
+                     <item>Waterbearer 15, 18.</item>
+                     <item>Nuns head 16, 12.</item>
+                     <item>Puttocke 18, 8.</item>
+                  </list>
+               </item>
+               <item>Sea-griphon to the Swan 10, 18.
+<list>
+                     <item>Goldſmith 12, 6.</item>
+                     <item>Robinſon 17, 18.</item>
+                     <item>Mill 13, 8.</item>
+                     <item>Watergap 15, 5.</item>
+                     <item>Cotton 17, 4.</item>
+                     <item>Parks his pleaſure 15, 17.</item>
+                     <item>Warde 17, 12.</item>
+                     <item>Swans ſtake 18, 12.</item>
+                     <item>Kingſton bridge 13, 17.</item>
+                     <item>Carters whip 11, 18.</item>
+                     <pb n="84" facs="tcp:151888:46"/>
+                     <item>Stake in the plaine 14, 10.</item>
+                     <item>Hodges pleaſure 10, 16.</item>
+                     <item>Cuckoe 12.</item>
+                     <item>Humfrey Iames 16, 6.</item>
+                     <item>Bakers boy 14, 8.</item>
+                     <item>Barlow 13, 6.</item>
+                     <item>Lion 12.</item>
+                     <item>Buſh vnder buſh 10, 10.</item>
+                     <item>Popes head 16.</item>
+                  </list>
+               </item>
+               <item>Sheffe of arrowes to the Pigeon 11.
+<list>
+                     <item>Kings arme 13, 13.</item>
+                     <item>Daines delight 14, 10.</item>
+                     <item>Plaice 17, 3.</item>
+                     <item>Diogenes 18.</item>
+                     <item>Cat and fiddle 17, 8.</item>
+                     <item>Whitbrooke 14, 10.</item>
+                     <item>Martins monkie 12, 2.</item>
+                     <item>Stirrop 11, 2.</item>
+                     <item>Hodges hart 10.</item>
+                  </list>
+               </item>
+               <item>Siluer doue to Hariſon 14, 12.
+<list>
+                     <item>Gate by Hariſon 15, 2.</item>
+                     <item>Sea-griphon 16, 9.</item>
+                     <item>Yong Powell 17.</item>
+                     <item>Maidens bluſh 10, 7.</item>
+                     <item>Flying horſe 11, 11.</item>
+                     <item>Mercers maid 12, 14.</item>
+                     <item>Buſh vnder buſh 14.</item>
+                     <pb n="85" facs="tcp:151888:46"/>
+                     <item>Lion 15, 3.</item>
+                     <item>Cuckoe 17, 8.</item>
+                     <item>Barlow 16, 2.</item>
+                     <item>Bakers boy 17, 10.</item>
+                     <item>Buſh by Barlow 14, 9.</item>
+                     <item>Popes head 14, 8.</item>
+                     <item>Cocke 13, 16.</item>
+                     <item>Nightingale 13.</item>
+                     <item>Boxes arme 12, 11.</item>
+                     <item>Baſſings hall 14, 12.</item>
+                     <item>Cawdries coffer 16, 12.</item>
+                  </list>
+               </item>
+               <item>Sir Rowland to the Cowſlip 10, 10.
+<list>
+                     <item>Queenes ſtake 11, 12.</item>
+                     <item>Archdale 15, 2.</item>
+                     <item>Hand and roſe 18, 12.</item>
+                     <item>Swan harneſt man 17, 15.</item>
+                     <item>Greenes ſtake 15, 3.</item>
+                     <item>Martins May flower 13, 17</item>
+                     <item>Diall 9, 18.</item>
+                     <item>Nelſon 12.</item>
+                     <item>Buſh by Nelſon 12, 8.</item>
+                     <item>Lanterne 13, 18.</item>
+                     <item>Beſwikes ſtone 15, 10.</item>
+                     <item>Leaſe 17, 12.</item>
+                     <item>Saint Martins 11, 18.</item>
+                     <item>Stone 11, 18.</item>
+                     <item>Durhams boy 14, 7.</item>
+                     <pb n="86" facs="tcp:151888:47"/>
+                     <item>Houſe of Lancaſter 17, 9.</item>
+                  </list>
+               </item>
+               <item>Snowball to the Sea-griphon 15, 8.
+<list>
+                     <item>Gate by Hariſon 13, 10.</item>
+                     <item>Yong Powell 15, 5.</item>
+                     <item>Flint 17, 12.</item>
+                     <item>Star 18, 12.</item>
+                     <item>Robinſons arme 17, 5.</item>
+                     <item>Hodges pleaſure 16, 10.</item>
+                     <item>Cuckoe 15, 7.</item>
+                     <item>Stake in the plaine 18, 10.</item>
+                     <item>Humfrey Iames 17, 9.</item>
+                     <item>Bakers boy 15, 10.</item>
+                     <item>Mercers maid 10, 12.</item>
+                     <item>Buſh vnder buſh 12.</item>
+                     <item>Lion 13, 3.</item>
+                     <item>Barlow 14, 2.</item>
+                     <item>Buſh by Barlow 13, 6.</item>
+                     <item>Popes head 12, 12.</item>
+                     <item>Cocke 12.</item>
+                     <item>Nightingale 11, 8.</item>
+                     <item>Boxes arme 11, 5.</item>
+                     <item>Baſſings hall 13, 5.</item>
+                     <item>Cawdries coffer 15, 8.</item>
+                  </list>
+               </item>
+               <item>Sonday hill to the Waterbearer 15, 16.
+<list>
+                     <item>Nuns head 15.</item>
+                     <item>Puttocke 14, 13.</item>
+                     <item>Robin redbreſt 17, 18.</item>
+                     <pb n="87" facs="tcp:151888:47"/>
+                     <item>Curriers ſhaue 14, 15.</item>
+                     <item>Stockes 18, 17.</item>
+                     <item>Bridge by the Stockes 16, 10.</item>
+                  </list>
+               </item>
+               <item>Speeds ſtake to Yomanſon 15, 12.
+<list>
+                     <item>London ſtone 16, 8.</item>
+                     <item>Vent ſtone 14, 18.</item>
+                     <item>Waterbearer 13, 19.</item>
+                     <item>Nuns head 14, 10.</item>
+                     <item>Puttocke 16, 2.</item>
+                     <item>Stumpe 15, 1.</item>
+                     <item>Sonday hill 16, 17.</item>
+                  </list>
+               </item>
+               <item>Spindle to the Vent ſtone 17, 4.
+<list>
+                     <item>London ſtone 18, 17.</item>
+                     <item>Lewer 18, 12.</item>
+                     <item>Saunders backe 16, 14.</item>
+                     <item>Lockleys mouth 15.</item>
+                     <item>Norington by the condit 12, 8.</item>
+                     <item>Vine 10, 7.</item>
+                     <item>Red croſſe 11, 10.</item>
+                     <item>Norington 11, 18.</item>
+                     <item>Doues ſtake 13, 5.</item>
+                     <item>Sudlowes ſwan 14, 10.</item>
+                     <item>Houſe of Lancaſter 17, 15.</item>
+                     <item>Bankes his ſtake 16, 18.</item>
+                     <item>Mils his backe 17, 9.</item>
+                     <item>Founders ſonne 15, 4.</item>
+                     <item>Bridge by the Stocks 10, 12.</item>
+                  </list>
+               </item>
+               <pb n="88" facs="tcp:151888:48"/>
+               <item>Stake at the ſtile to the tree at the gate 14.
+<list>
+                     <item>Saplin by the pond 13, 10.</item>
+                     <item>Hariſons ſaplin 14, 7.</item>
+                     <item>Three ſaplins 15, 8.</item>
+                     <item>Simſons ſaplin 16, 4.</item>
+                  </list>
+               </item>
+               <item>Stake in the plain to Parks his pleaſure 12, 5
+<list>
+                     <item>Watergap 17, 1.</item>
+                     <item>Sheffe of arrowes 17, 19.</item>
+                     <item>Cottons ſtake 15, 4.</item>
+                     <item>Perins paſt bruſh 15, 9.</item>
+                     <item>Rainbow 17, 17.</item>
+                     <item>Wards ſtake 13, 5.</item>
+                     <item>Swans ſtake 11, 16.</item>
+                     <item>Hodges hart 10, 16.</item>
+                     <item>Stirrop 10, 17.</item>
+                     <item>Martins monkie 11.</item>
+                     <item>Whitbrooke 11, 15.</item>
+                     <item>Cat and fiddle 12, 10.</item>
+                     <item>Daines delight 17, 10.</item>
+                     <item>Plaice 16, 8.</item>
+                     <item>Diogenes 14, 12.</item>
+                     <item>Robinſons leg 13, 1.</item>
+                     <item>Bailies bay 12, 2.</item>
+                     <item>Brewers apron 11, 18.</item>
+                     <item>Crooked ſaplin 11, 11.</item>
+                  </list>
+               </item>
+               <item>Standerd ſtone to the Pew doore 9, 16.
+<list>
+                     <item>Mouth 10, 2.</item>
+                     <pb n="89" facs="tcp:151888:48"/>
+                     <item>Sawpit 13, 10.</item>
+                     <item>Princes ſtake 12, 13.</item>
+                     <item>Tinkers budget 10, 4.</item>
+                     <item>Speedes ſtake 11, 6</item>
+                     <item>Colbrand 10, 7.</item>
+                     <item>Bricklayer 9, 10.</item>
+                     <item>Wridocke 11, 19.</item>
+                     <item>Saint Giles 18, 10.</item>
+                     <item>Robinhood 18, 2.</item>
+                     <item>S. Botulphs 18.</item>
+                     <item>Stumpe 15, 7.</item>
+                     <item>Sonday hill 17, 4.</item>
+                  </list>
+               </item>
+               <item>Starre to the Mill 11, 3.
+<list>
+                     <item>Watergap 12, 2.</item>
+                     <item>Bings ſtake 17, 4.</item>
+                     <item>Robinſon 14, 19.</item>
+                     <item>Sheffe of arrowes 14, 4.</item>
+                     <item>Hales arbor 15, 18.</item>
+                     <item>Perins paſt bruſh 13, 15.</item>
+                     <item>Rainbow 17, 2.</item>
+                     <item>Cottons ſtake 11, 11.</item>
+                     <item>Wards ſtake 10, 10.</item>
+                     <item>Swans ſtake 10, 6.</item>
+                     <item>Hodges hart 10, 18.</item>
+                     <item>Stirrop 11, 10.</item>
+                     <item>Martins monkie 12, 7.</item>
+                     <item>Whitbrooke 14.</item>
+                     <pb n="90" facs="tcp:151888:49"/>
+                     <item>Cat and fiddle 15, 18.</item>
+                     <item>Diogenes 17, 18.</item>
+                     <item>Robinſons leg 17, 2.</item>
+                     <item>Bailies bay 17.</item>
+                     <item>Brewers apron 16, 19.</item>
+                     <item>Crooked ſaplin 16, 2.</item>
+                     <item>Pollin 13, 19.</item>
+                     <item>Corniſh chough 12, 9.</item>
+                     <item>Three ſaplins 14, 17.</item>
+                     <item>Bee-hiue 10, 8.</item>
+                     <item>Popes head 11, 12.</item>
+                     <item>Cocke 13, 3.</item>
+                     <item>Nightingale 15, 12.</item>
+                     <item>Boxes arme 18, 1.</item>
+                  </list>
+               </item>
+               <item>Stirrops ſtake to the Hornebooke 14, 8.
+<list>
+                     <item>Tree by the gate 16, 14.</item>
+                     <item>Pillar of Paules 13, 18.</item>
+                     <item>Stake at the ſtile 13, 16.</item>
+                     <item>Target tree 14, 3.</item>
+                     <item>Beares head 15, 6.</item>
+                     <item>Bailies bay 10.</item>
+                     <item>Brewers apron 10, 14.</item>
+                     <item>Crooked ſaplin 12, 4.</item>
+                     <item>Pollin 11, 19.</item>
+                     <item>Corniſh chough 12.</item>
+                     <item>Middle ſaplin 14, 10.</item>
+                     <item>Three ſaplins 15, 7.</item>
+                     <pb n="91" facs="tcp:151888:49"/>
+                     <item>Hariſons ſaplin 14, 12.</item>
+                     <item>Simſons ſaplin 16.</item>
+                  </list>
+               </item>
+               <item>Stocks to the Hurſt 12, 16.
+<list>
+                     <item>Coopers ſtake 17, 15.</item>
+                     <item>Nortriges hind 15, 3.</item>
+                     <item>Hercuſes club 13, 8.</item>
+                  </list>
+               </item>
+               <item>Stumpe by Sonday hill to the Nuns head 14, 12.
+<list>
+                     <item>Waterbearer 15, 8.</item>
+                     <item>Puttocke 14, 13.</item>
+                     <item>Robin redbreſt 18, 2.</item>
+                     <item>Curriers ſhaue 14, 11.</item>
+                     <item>Bridge by the Stockes 18, 10.</item>
+                  </list>
+               </item>
+               <item>Sudlowes ſwan to Marſhes ſtake 19, 18.
+<list>
+                     <item>Fuller 16, 6.</item>
+                     <item>Daies deede 13, 19.</item>
+                     <item>Saint Martins 9, 16.</item>
+                     <item>Nelſon 17, 2.</item>
+                     <item>Buſh by Nelſon 16, 12.</item>
+                     <item>Lanterne 14, 10.</item>
+                     <item>Beſwikes ſtone 12, 11.</item>
+                     <item>Leaſe 10, 16.</item>
+                     <item>Egpie 16, 7.</item>
+                     <item>Sea-griphon 15, 17.</item>
+                     <item>Yong Powell 19, 3.</item>
+                     <item>Gate by Hariſon 15, 16.</item>
+                     <item>Hariſon 14, 19.</item>
+                     <item>Watſon 12, 14.</item>
+                     <pb n="92" facs="tcp:151888:50"/>
+                     <item>Goſſon 11, 6.</item>
+                     <item>Houſe of Yorke 12, 16.</item>
+                     <item>Maidens bluſh 18, 18.</item>
+                     <item>Doues redbreſt 17, 3.</item>
+                     <item>Quinies piller 15, 5.</item>
+                     <item>Vpper gardiner 13, 6.</item>
+                     <item>Rams head 13, 17.</item>
+                     <item>Huls pumpe 14, 1.</item>
+                     <item>Clothworkers handle 14, 14.</item>
+                     <item>Boxes leg 15, 9.</item>
+                     <item>Snowball 17, 13.</item>
+                     <item>Kings mace 16, 8.</item>
+                     <item>Siluer doue 17, 7.</item>
+                     <item>Tree by Hercules 14.</item>
+                  </list>
+               </item>
+               <item>Swan harneſt man to the Hand &amp; roſe 10.
+<list>
+                     <item>Swan Wilcox 11.</item>
+                     <item>Horſelofe 16, 9.</item>
+                     <item>Kettles ſtone 14, 11.</item>
+                     <item>Candle 13, 6.</item>
+                     <item>Whitehorne 12.</item>
+                     <item>Brands boy 11, 3.</item>
+                     <item>Majors marigold 13, 8.</item>
+                     <item>Tree by the Camell 15.</item>
+                     <item>Camell 16, 3.</item>
+                     <item>Graueleſſe lambe 18, 10.</item>
+                     <item>Parkins hare 19.</item>
+                     <item>Stone 19, 5.</item>
+                     <pb n="93" facs="tcp:151888:50"/>
+                     <item>Bings ſtake 10, 4.</item>
+                     <item>Robinſon 10, 6.</item>
+                     <item>Sheffe of arrowes 13, 10.</item>
+                     <item>Hales arbor 16.</item>
+                     <item>Perins paſt bruſh 17, 13.</item>
+                     <item>Cottons ſtake 12, 15.</item>
+                     <item>Wards ſtake 14, 19.</item>
+                     <item>Swans ſtake 17.</item>
+                     <item>Parkes his pleaſure 13.</item>
+                     <item>Kingſton bridge 12, 8.</item>
+                     <item>Carters whip 11, 18.</item>
+                     <item>Mab 11, 12.</item>
+                     <item>Aſpinals ape 11, 10.</item>
+                     <item>Star 14.</item>
+                     <item>Robinſons arme 15, 17.</item>
+                     <item>Hodges pleaſure 17, 1.</item>
+                     <item>Cuckoe 19.</item>
+                  </list>
+               </item>
+               <item>Swan Wilcox to the Hare in the vale 15.
+<list>
+                     <item>Liberds head 18.</item>
+                     <item>Thurloes roſe 16, 15.</item>
+                     <item>Turkes ſtake 13, 13.</item>
+                     <item>Parkins hare 10, 4.</item>
+                     <item>Pigeon 13, 18.</item>
+                     <item>Saplin by the Pigeon 12, 10.</item>
+                     <item>Graueleſſe lambe 11, 7.</item>
+                     <item>Hornebooke 14, 16.</item>
+                     <item>Hales arbor 14, 5.</item>
+                     <pb n="94" facs="tcp:151888:51"/>
+                     <item>Perins paſt bruſh 18, 3.</item>
+                     <item>Sheffe of arrowes 12, 14.</item>
+                     <item>Robinſon 9, 2.</item>
+                     <item>Cotton 14, 5.</item>
+                     <item>Watergap 10, 16.</item>
+                     <item>Mill 10, 10.</item>
+                     <item>Parkes his pleaſure 16, 12.</item>
+                     <item>Wards ſtake 17, 1.</item>
+                  </list>
+               </item>
+               <item>Swans ſtake to the Pigeon 16, 19.
+<list>
+                     <item>Saplin by the Pigeon 15, 10.</item>
+                     <item>Kings arme 10, 9.</item>
+                     <item>Daines delight 10, 15.</item>
+                     <item>Plaice 11, 5.</item>
+                     <item>Pillar of Paules 17.</item>
+                     <item>Diogenes 11, 10.</item>
+                     <item>Stake at the ſtile 17, 8.</item>
+                     <item>Cat and fiddle 10, 8.</item>
+                     <item>Robinſons leg 12, 10.</item>
+                     <item>Bailies bay 13, 18.</item>
+                     <item>Brewers apron 14, 8.</item>
+                     <item>Crooked ſaplin 15, 10.</item>
+                     <item>Pollin 14, 18.</item>
+                     <item>Corniſh chough 14, 9.</item>
+                     <item>Bee hiue 14, 5.</item>
+                     <item>Hariſons ſaplin 17.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>Target tree to the Tree by the gate 15, 6.
+<list>
+                     <item>Saplin by the pond 14, 6.</item>
+                     <pb n="95" facs="tcp:151888:51"/>
+                     <item>Hariſons ſaplin 13, 17.</item>
+                     <item>Three ſaplins 14, 17.</item>
+                     <item>Simſons ſaplin 11, 8.</item>
+                  </list>
+               </item>
+               <item>Theefe in the hedge to the Diall 16, 18.
+<list>
+                     <item>Nelſon 13, 18.</item>
+                     <item>Martins May-flower 14, 14.</item>
+                     <item>Greenes ſtake 15, 16.</item>
+                     <item>Swan 17, 18.</item>
+                     <item>Buſh by Nelſon 13, 8.</item>
+                     <item>Lanterne 10, 16.</item>
+                     <item>Egpie 10, 12.</item>
+                     <item>Brownes ſtake 14, 7.</item>
+                     <item>Wolues head 17, 12.</item>
+                     <item>Aſpinals ape 17, 17.</item>
+                     <item>Flint 15, 18.</item>
+                     <item>Sea-griphon 10.</item>
+                     <item>Yong Powell 13, 4.</item>
+                     <item>Gate by Hariſon 9, 13.</item>
+                     <item>Buſh vnder buſh 18, 2.</item>
+                     <item>Mercers maid 16, 12.</item>
+                     <item>Flying horſe 15, 5.</item>
+                     <item>Maidens bluſh 13, 8.</item>
+                     <item>Doues Redbreſt 11, 17.</item>
+                     <item>Quinies piller 10.</item>
+                     <item>Houſe of honeſty 15, 15.</item>
+                     <item>Kempton 17.</item>
+                     <item>Snowball 14, 3.</item>
+                     <pb n="96" facs="tcp:151888:52"/>
+                     <item>Clothworkers handle 10, 16.</item>
+                     <item>Boxes leg 11, 16.</item>
+                     <item>Kings mace 13, 8.</item>
+                     <item>Siluer doue 14, 11.</item>
+                     <item>Quinies faulchin 17, 10.</item>
+                     <item>Blacke Nan 18, 6.</item>
+                  </list>
+               </item>
+               <item>Three cranes to the Stile poſt 14, 10.
+<list>
+                     <item>Turkes ſtake 9, 18.</item>
+                     <item>Long Meg 17.</item>
+                     <item>Saplin 17, 13.</item>
+                     <item>Pigeon 16, 13.</item>
+                     <item>Saplin by the Pigeon 16.</item>
+                     <item>Graueleſſe lambe 15, 6.</item>
+                     <item>Camell 13, 18.</item>
+                     <item>Tree by the Camell 13, 10.</item>
+                     <item>Majors marigold 12, 14.</item>
+                     <item>Parkins hare 12, 10.</item>
+                     <item>Whitehorne 9, 12.</item>
+                     <item>Brands boy 11, 11.</item>
+                     <item>Bings ſtake 14, 10.</item>
+                     <item>Robinſon 17. 5.</item>
+                  </list>
+               </item>
+               <item>Thurloes roſe to long Meg 10, 15.
+<list>
+                     <item>Saplin by the Lion 11, 17.</item>
+                     <item>Lion 13, 4.</item>
+                     <item>Pigeon 16, 3.</item>
+                     <item>Saplin by the Pigeon 16, 8.</item>
+                  </list>
+               </item>
+               <item>Tinkers budget to Yomanſon 16, 14.
+<list>
+                     <pb n="97" facs="tcp:151888:52"/>
+                     <item>London ſtone 17, 17.</item>
+                     <item>Vent ſtone 16, 9.</item>
+                     <item>Waterbearer 15, 16.</item>
+                     <item>Nuns head 16, 6.</item>
+                     <item>Puttocke 17, 17.</item>
+                     <item>Stumpe 16.</item>
+                     <item>Sonday hill 17, 16.</item>
+                  </list>
+               </item>
+               <item>Tree by the Camell to Turks ſtake 11, 10
+<list>
+                     <item>Thurloes roſe 16, 12.</item>
+                     <item>Long Meg 14, 15.</item>
+                     <item>Saplin by the Lion 14, 7.</item>
+                     <item>Lion 14, 8.</item>
+                     <item>Rainbow 14, 8.</item>
+                     <item>Perins paſt bruſh 12, 12.</item>
+                     <item>Wardes ſtake 12, 18.</item>
+                     <item>Swans ſtake 15, 3.</item>
+                     <item>Hodges hart 17, 10.</item>
+                     <item>Stirrop 18, 9.</item>
+                  </list>
+               </item>
+               <item>Turkes ſtake to the Pigeon 10, 9.
+<list>
+                     <item>Saplin by the Pigeon 11.</item>
+                     <item>Hornebooke 15, 7.</item>
+                     <item>Graueleſſe lambe 10, 17.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>Vent ſtone to Alhallowes 16, 12.
+<list>
+                     <item>Hawes 14, 16.</item>
+                     <item>Dickmans marigold 17.</item>
+                     <item>Fullers ſtake 19, 4.</item>
+                     <item>Daies deede 19, 4.</item>
+                     <pb n="98" facs="tcp:151888:53"/>
+                     <item>Saint Martins 20, 2.</item>
+                     <item>Stone 19, 3.</item>
+                     <item>Norington 17, 13.</item>
+                     <item>Red croſſe 15, 8.</item>
+                     <item>Norington by the Condit head 9, 16.</item>
+                     <item>Vine 10, 12.</item>
+                     <item>Coopers ſtake 16, 15.</item>
+                  </list>
+               </item>
+               <item>Vine to Marſhes ſtake 17, 7.
+<list>
+                     <item>Fullers ſtake 15, 4.</item>
+                     <item>Daies deede 13, 15.</item>
+                     <item>Saint Martins 12, 15.</item>
+                     <item>Stone 11, 16.</item>
+                     <item>Durhams boy 12, 2.</item>
+                     <item>Houſe of Lancaſter 12, 2.</item>
+                     <item>Banks his ſtake 12, 10.</item>
+                     <item>Doues ſtake 9, 19.</item>
+                     <item>Sudlowes ſwan 11, 12.</item>
+                     <item>Mils his backe 14, 3.</item>
+                     <item>Theefe in the hedge 16, 17.</item>
+                     <item>Amias backe 18, 6.</item>
+                     <item>Founders ſonne 16, 14.</item>
+                     <item>Hercules club 12, 2.</item>
+                     <item>Tree by Hercules 15, 7.</item>
+                  </list>
+               </item>
+               <item>Vpper gardiner to Martins May-flower 17 4.
+<list>
+                     <item>Greenes ſtake 17, 9.</item>
+                     <item>Swan 18, 8.</item>
+                     <item>Egpie 9, 15.</item>
+                     <pb n="99" facs="tcp:151888:53"/>
+                     <item>Brownes ſtake 13, 4.</item>
+                     <item>Wolues head 16, 9.</item>
+                     <item>Flint 11, 9.</item>
+                     <item>Aſpinals ape 13, 7.</item>
+                     <item>Mab 16, 8.</item>
+                     <item>Carters whip 17, 10.</item>
+                     <item>Star 13, 19.</item>
+                     <item>Robinſons arme 13, 8.</item>
+                     <item>Hodges pleaſure 13, 3.</item>
+                     <item>Cuckoe 13, 2.</item>
+                     <item>Stake in the plaine 16, 10.</item>
+                     <item>Buſh vnder buſh 10, 13.</item>
+                     <item>Lion 12, 6.</item>
+                     <item>Barlow 13, 8.</item>
+                     <item>Bakers boy 14, 18.</item>
+                     <item>Humfrey Iames 17.</item>
+                     <item>Popes head 14, 1.</item>
+                     <item>Cocke 14, 10.</item>
+                     <item>Nightingale 15, 6.</item>
+                     <item>Boxes arme 16. 9.</item>
+                     <item>Baſſings hall 18, 2.</item>
+                     <item>Kempton 10, 14.</item>
+                     <item>Buſh by Piper 14.</item>
+                     <item>Piper 16.</item>
+                     <item>Siluer doue 9, 10.</item>
+                     <item>Quinies faulchin 12, 18.</item>
+                     <item>Blacke Nan 13, 14.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <pb n="100" facs="tcp:151888:54"/>
+               <head>W</head>
+               <item>Wardes ſtake to Graueleſle lambe 13, 10.
+<list>
+                     <item>Saplin by the Pigeon 14.</item>
+                     <item>Pigeon 15, 7.</item>
+                     <item>Hornebooke 10, 10.</item>
+                     <item>Kings arme 11, 7.</item>
+                     <item>Daines delight 11, 16.</item>
+                     <item>Plaice 13, 12.</item>
+                     <item>Pillar of Paules 18, 1.</item>
+                     <item>Diogenes 14.</item>
+                     <item>Whitbrooke 10, 2.</item>
+                     <item>Cat and fiddle 12, 18.</item>
+                     <item>Robinſons leg 15, 2.</item>
+                     <item>Bailies bay 16, 9.</item>
+                     <item>Brewers apron 16, 18.</item>
+                     <item>Crooked ſaplin 17, 17.</item>
+                     <item>Pollin 17, 3.</item>
+                     <item>Corniſh chough 16, 14.</item>
+                     <item>Bee-hiue 16, 4.</item>
+                     <item>Hariſons ſaplin 18.</item>
+                  </list>
+               </item>
+               <item>Waterbearer to Yomanſon 12, 15.
+<list>
+                     <item>Humfreys ſtake 14, 11.</item>
+                     <item>Weeping croſſe 12, 3.</item>
+                     <item>Saunders backe 11, 9.</item>
+                     <item>Lockleys mouth 10, 16.</item>
+                     <item>Norington by the Condit head 10, 17.</item>
+                     <item>Vine 10, 15.</item>
+                     <item>Red croſſe 15, 10.</item>
+                     <pb n="101" facs="tcp:151888:54"/>
+                     <item>Norington 17, 5.</item>
+                     <item>Coopers ſtake 15, 19.</item>
+                     <item>Nortriges hind 17, 14.</item>
+                     <item>Hurſt 11, 6.</item>
+                     <item>Spindle 13, 15.</item>
+                  </list>
+               </item>
+               <item>Watergap to the Bores head 17, 12.
+<list>
+                     <item>Horſelofe 16, 3.</item>
+                     <item>Kettles ſtone 13, 16.</item>
+                     <item>Candle 11, 17.</item>
+                     <item>Whitehorne 10, 2.</item>
+                     <item>Parkins hare 13, 10.</item>
+                     <item>Stone 14, 2.</item>
+                     <item>Camell 10, 3.</item>
+                     <item>Graueleſſe lambe 11, 18.</item>
+                     <item>Pigeon 14. 9.</item>
+                     <item>Saplin by the Pigeon 12, 14.</item>
+                     <item>Hornebooke 11, 16.</item>
+                     <item>Rainbow 13, 2.</item>
+                     <item>Kings arme 18.</item>
+                     <item>Daines delight 18, 8.</item>
+                     <item>Swans ſtake 9, 10.</item>
+                     <item>Hodges hart 12, 6.</item>
+                     <item>Stirrop 13, 7.</item>
+                     <item>Martins monkie 14, 9.</item>
+                     <item>Whitbrooke 17.</item>
+                  </list>
+               </item>
+               <item>Watſon to Martins May-flower 12, 13.
+<list>
+                     <item>Greenes ſtake 12, 19.</item>
+                     <pb n="102" facs="tcp:151888:55"/>
+                     <item>Swan 14.</item>
+                     <item>Goldſmith 16.</item>
+                     <item>Browne 9, 3.</item>
+                     <item>Wolues head 12, 12.</item>
+                     <item>Mill 17, 5.</item>
+                     <item>Watergap 18, 19.</item>
+                     <item>Flint 9, 6.</item>
+                     <item>Aſpinals ape 11, 5.</item>
+                     <item>Mab 14, 2.</item>
+                     <item>Carters whip 14, 18.</item>
+                     <item>Kingſton bridge 17, 10.</item>
+                     <item>Star 12, 13.</item>
+                     <item>Robinſons arme 12, 25.</item>
+                     <item>Hodges pleaſure 13, 2.</item>
+                     <item>Cuckoe 13, 17.</item>
+                     <item>Stake in the plaine 16, 16.</item>
+                     <item>Humfrey Iames 18.</item>
+                     <item>Bakers boy 16, 1.</item>
+                     <item>Barlow 14, 12.</item>
+                     <item>Lion 13, 13.</item>
+                     <item>Buſh vnder buſh 12, 7.</item>
+                     <item>Mercers maid 10, 17.</item>
+                     <item>Popes head 16, 10.</item>
+                     <item>Cocke 17, 2.</item>
+                     <item>Nightingale 18, 8.</item>
+                     <item>Houſe of honeſtie 13, 12.</item>
+                     <item>Kempton 15, 2.</item>
+                     <pb n="103" facs="tcp:151888:55"/>
+                     <item>Snowball 12, 16.</item>
+                     <item>Boxes leg 10, 15.</item>
+                     <item>Kings mace 12, 9.</item>
+                     <item>Siluer doue 13, 18.</item>
+                     <item>Quinies faulchin 17, 4.</item>
+                     <item>Blacke Nan 18, 3.</item>
+                  </list>
+               </item>
+               <item>Weeping croſſe to Dickmans marigold 10, 12.
+<list>
+                     <item>Conie 15, 18.</item>
+                     <item>Rogers ſtake 14, 4.</item>
+                     <item>Sir Rowland 12, 16.</item>
+                     <item>Marſhes ſtake 12, 6.</item>
+                     <item>Fullers ſtake 11, 8.</item>
+                     <item>Dayes deed 11, 14.</item>
+                     <item>Saint Martins 13, 3.</item>
+                     <item>Stone 12, 4.</item>
+                     <item>Durhams boy 14, 4.</item>
+                     <item>Houſe of Lancaſter 15, 18</item>
+                     <item>Banks his ſtake 17, 4.</item>
+                     <item>Mils his backe 19. 4.</item>
+                     <item>Sudlowes ſwan 17, 8.</item>
+                     <item>Doues ſtake 16, 6.</item>
+                     <item>Norington 13, 17.</item>
+                     <item>Coopers ſtake 13, 18.</item>
+                     <item>Nortriges hinde 17, 4.</item>
+                     <item>Red croſſe 11, 14.</item>
+                  </list>
+               </item>
+               <item>Whitbrooke to the Tree at the gate 14, 15
+<list>
+                     <item>Piller of Paules 10.</item>
+                     <pb n="104" facs="tcp:151888:56"/>
+                     <item>Stake at the ſtile 9, 17.</item>
+                     <item>Target tree 10, 3.</item>
+                     <item>Beares head 11, 14.</item>
+                     <item>Crooked tree 9, 8.</item>
+                     <item>Pollin 10, 2.</item>
+                     <item>Middle ſaplin 10, 10.</item>
+                     <item>Hariſons ſaplin 12, 12.</item>
+                     <item>Three ſaplins 13, 12.</item>
+                     <item>Saplin next Simſons 14, 5.</item>
+                  </list>
+               </item>
+               <item>Whitehorne to Thurloes Roſe 16, 2.
+<list>
+                     <item>Turks ſtake 12, 5.</item>
+                     <item>Long Meg 17.</item>
+                     <item>Saplin by the Lion 17, 7.</item>
+                     <item>Lion 17, 17.</item>
+                     <item>Pigeon 11, 10.</item>
+                     <item>Hornebooke 12, 6.</item>
+                     <item>Hales arbor 12. 5.</item>
+                     <item>Perins paſt bruſh 16, 8.</item>
+                     <item>Sheffe of arrowes 11.</item>
+                     <item>Cotton 12, 18.</item>
+                     <item>Warde 15, 14.</item>
+                     <item>Swans ſtake 18, 5.</item>
+                  </list>
+               </item>
+               <item>Wolues head to Swan Wilcox 13, 10.
+<list>
+                     <item>Kettles ſtone 16, 17.</item>
+                     <item>Candle 15, 8.</item>
+                     <item>Whitehorne 13, 19.</item>
+                     <item>Brands boy 12, 10.</item>
+                     <pb n="105" facs="tcp:151888:56"/>
+                     <item>Majors marigold 13, 16.</item>
+                     <item>Tree by the Camell 15, 6.</item>
+                     <item>Camell 16, 8.</item>
+                     <item>Graueleſſe lambe 18, 7.</item>
+                     <item>Parkins hare 19, 9.</item>
+                     <item>Hornebooke 18.</item>
+                     <item>Hales arbor 14, 3.</item>
+                     <item>Sheffe of arrowes 11, 14.</item>
+                     <item>Perins paſt bruſh 14, 18.</item>
+                     <item>Bings ſtake 10, 6.</item>
+                     <item>Cotton 10, 6.</item>
+                     <item>Wards ſtake 11, 15.</item>
+                     <item>Swans ſtake 13, 10.</item>
+                     <item>Hodges hart 15, 18.</item>
+                     <item>Stirrop 17.</item>
+                     <item>Martins monkie 18, 4.</item>
+                     <item>Starre 10.</item>
+                     <item>Robinſons arme 11, 17.</item>
+                     <item>Hodges pleaſure 13, 2.</item>
+                     <item>Cuckoe 15, 2.</item>
+                     <item>Stake in the plaine 16, 3.</item>
+                     <item>Bakers boy 17, 10.</item>
+                     <item>Barlow 17, 19.</item>
+                  </list>
+               </item>
+               <item>Wridocke to Yomanſon 16, 1.
+<list>
+                     <item>London ſtone 15, 4.</item>
+                     <item>Vent ſtone 13, 9.</item>
+                     <item>Lewer 18, 2.</item>
+                     <pb n="106" facs="tcp:151888:57"/>
+                     <item>Waterbearer 11, 12.</item>
+                     <item>Nuns head 11, 19.</item>
+                     <item>Puttocke 13, 7.</item>
+                     <item>Robin Redbreſt 17, 5.</item>
+                     <item>Curriers ſhaue 18, 10.</item>
+                     <item>Stumpe 12.</item>
+                     <item>Sonday hill 13, 13.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>Yomanſon to Alhallowes 10, 6.
+<list>
+                     <item>Dickmans marigold 14, 12.</item>
+                     <item>Conie 18, 12.</item>
+                     <item>Rogers ſtake 18, 6.</item>
+                     <item>Sir Rowland 18, 4.</item>
+                     <item>Marſhes ſtake 18, 6.</item>
+                     <item>Fullers ſtake 19, 8.</item>
+                     <item>Weeping croſſe 9. 10.</item>
+                     <item>Saunders backe 11, 9.</item>
+                     <item>Lockleys mouth 12, 15.</item>
+                     <item>Norington 15, 8.</item>
+                     <item>Vine 16, 16.</item>
+                     <item>Robin Redbreſt 16, 11.</item>
+                  </list>
+               </item>
+               <item>Yong Powell to Swan harneſt man 12, 3.
+<list>
+                     <item>Goldſmiths ſtake 12, 12.</item>
+                     <item>Mill 12, 6.</item>
+                     <item>Watergap 14, 2.</item>
+                     <item>Robinſon 17, 4.</item>
+                     <item>Sheffe of arrowes 17, 16.</item>
+                     <item>Hales arbor 19, 18.</item>
+                     <pb n="107" facs="tcp:151888:57"/>
+                     <item>Cottons ſtake 1, 5, 8.</item>
+                     <item>Kingſton bridge 11, 8.</item>
+                     <item>Parkes his pleaſure 13, 2.</item>
+                     <item>Wards ſtake 15, 6.</item>
+                     <item>Swans ſtake 15, 17.</item>
+                     <item>Perins paſt bruſh 18, 13.</item>
+                     <item>Hodges hart 16, 18.</item>
+                     <item>Stirrop 17, 12.</item>
+                     <item>Martins monkie 18, 13.</item>
+                     <item>Stake in the plaine 11, 2.</item>
+                     <item>Corniſh chough 17, 7.</item>
+                     <item>Bee-hiue 15.</item>
+                     <item>Humfrey Iames 13, 1.</item>
+                     <item>Bakers boy 11, 6.</item>
+                     <item>Barlow 10, 9.</item>
+                     <item>Popes head 13, 8.</item>
+                     <item>Cocke 14, 7.</item>
+                     <item>Nightingale 16, 9.</item>
+                     <item>Boxes arme 18, 6.</item>
+                  </list>
+               </item>
+            </list>
+            <p>From Bunhill to Hardwikes ſtake, which is the furtheſt ſhoote that euer was ſhot for the flight is 27. ſcore.</p>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:151888:58" rendition="simple:additions"/>
+            <pb facs="tcp:151888:58"/>
+            <head>A Table of the names of all the markes in Finsburie Fieldes.</head>
+            <list>
+               <head>A.</head>
+               <item>A B, C, next ſtake to Iſlington 1</item>
+               <item>Alhallowes 1</item>
+               <item>Allowayes houſe of the George 1</item>
+               <item>Amias backe 2</item>
+               <item>Archdale 3</item>
+               <item>Aſpinals ape, ſomtimes blacke Prince 4</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>BAilies bay 5</item>
+               <item>Bakers boy, or Greyhound 5</item>
+               <item>Bankes his ſtake 6</item>
+               <item>Barlow 7</item>
+               <item>Beares head 8</item>
+               <item>Bee-hiue, ſometime Portingale croſſe 8</item>
+               <item>Beſwikes ſtone 8</item>
+               <item>Bings ſtake 9</item>
+               <pb facs="tcp:151888:59"/>
+               <item>Blacke Nan 10</item>
+               <item>Bores head 10</item>
+               <item>Boxes arme 11</item>
+               <item>Boxes leg 11</item>
+               <item>Brands boy 12</item>
+               <item>Brewers apron 12</item>
+               <item>Bricklayers ſtake 13</item>
+               <item>Bricklayers finiall 13</item>
+               <item>Brownes ſtake 13</item>
+               <item>Bunhill 14</item>
+               <item>Buſh vnder buſh 15</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>CAmell 15</item>
+               <item>Candle 16</item>
+               <item>Carington 16</item>
+               <item>Carters whip 17</item>
+               <item>Cat and fiddle 17</item>
+               <item>Cawdries coffer 18</item>
+               <item>Clothworkers handle 18</item>
+               <item>Cocke 19</item>
+               <item>Colbrand 19</item>
+               <pb facs="tcp:151888:59"/>
+               <item>Cony 19</item>
+               <item>Coopers ſtake 20</item>
+               <item>Corniſh chough 20</item>
+               <item>Cottons ſtake 21</item>
+               <item>Couſlip 21</item>
+               <item>Cuckow, ſometime Momford 22</item>
+               <item>Curriers ſhaue 23</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>DAyes deed 24</item>
+               <item>Daines delight 24</item>
+               <item>Diall 25</item>
+               <item>Dickmans marigold 26</item>
+               <item>Diogenes, ſometimes Candleſticke 26</item>
+               <item>Doues Redbreſt 26</item>
+               <item>Doues ſtake 27</item>
+               <item>Durhams boy 28</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Egpie 29</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>FLint 30</item>
+               <item>Flying horſe 31</item>
+               <pb facs="tcp:151888:60"/>
+               <item>Founders ſonne 31</item>
+               <item>Frier Tucke 32</item>
+               <item>Fullers ſtake 32</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>GAte by Hariſon 33</item>
+               <item>Goldſmiths ſtake 34</item>
+               <item>Goſſon 35</item>
+               <item>Graueleſſe lambe 36</item>
+               <item>Great ſtone by the Bricklayer 37</item>
+               <item>Greenes ſtake 37</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>HAles arbor 38</item>
+               <item>Hand and roſe 38</item>
+               <item>Hare in the vale 39</item>
+               <item>Hariſons fellowſhip 40</item>
+               <item>Hawes 41</item>
+               <item>Hercules club 41</item>
+               <item>Hodges pleaſure, ſometimes Sheepes ſtake 41</item>
+               <item>Hodges hart 42</item>
+               <item>Hornebooke 43</item>
+               <pb facs="tcp:151888:60"/>
+               <item>Horſelofe 43</item>
+               <item>Houſe of honestie 44</item>
+               <item>Houſe of Lancaſter 44</item>
+               <item>Houſe of Yorke 45</item>
+               <item>Huls pumpe 47</item>
+               <item>Humfreys ſtake 47</item>
+               <item>Humfrey Iames, or Croſſes ſtake 48</item>
+               <item>Hurſt 49</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>KEmpton 49</item>
+               <item>Kettes ſtone 50</item>
+               <item>Kings arme 50</item>
+               <item>Kings mace 51</item>
+               <item>Kingstone bridge 52</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>LAnterne 53</item>
+               <item>Leaſe 54</item>
+               <item>Lewer 55</item>
+               <item>Liberds head 55</item>
+               <item>Lion 55</item>
+               <gap reason="missing" resp="#OXF" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </list>
+            <list>
+               <pb facs="tcp:151888:61"/>
+               <head>R.</head>
+               <item>RAinebow, ſometines New-found land 75</item>
+               <item>Rams head 75</item>
+               <item>Red croſſe 76</item>
+               <item>Robinhood 77</item>
+               <item>Robin Redbreſt 77</item>
+               <item>Robinſon 78</item>
+               <item>Robinſons arme 78</item>
+               <item>Robinſons leg 80</item>
+               <item>Rogers ſtake 80</item>
+               <item>Rolfes ſtone 80</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>SAint Botulphs 81</item>
+               <item>Saint Giles 81</item>
+               <item>Saint Martins 81</item>
+               <item>Saunders backe 82</item>
+               <item>Sawpit 83</item>
+               <item>Sea-griphon 83</item>
+               <item>Sheffe of arrowes 84</item>
+               <item>Siluer doue 84</item>
+               <pb facs="tcp:151888:61"/>
+               <item>Sir Rowland 85</item>
+               <item>Snowball 86</item>
+               <item>Sonday hill 86</item>
+               <item>Speedes ſtake 87</item>
+               <item>Spindle 87</item>
+               <item>Stake at the ſtile 88</item>
+               <item>Stake in the plaine 88</item>
+               <item>Standerd ſtone 88</item>
+               <item>Starre 89</item>
+               <item>Stirrops ſtake 90</item>
+               <item>Stockes 91</item>
+               <item>Stumpe by Sonday hill 91</item>
+               <item>Sudlowes ſwan 91</item>
+               <item>Swan harneſt man 92</item>
+               <item>Swan Wilcox 93</item>
+               <item>Swans ſtake 94</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>TArget tree 94</item>
+               <item>Theefe in the hedge 95</item>
+               <item>Three cranes 96</item>
+               <item>Thurlos roſe 96</item>
+               <pb facs="tcp:151888:62"/>
+               <item>Tinkers budget 96</item>
+               <item>Tree by the Camell 97</item>
+               <item>Turkes ſtake 97</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>Vent ſtone 97</item>
+               <item>Vine 98</item>
+               <item>Vpper Gardiner 98</item>
+            </list>
+            <list>
+               <head>VV.</head>
+               <item>WArds ſtake 100</item>
+               <item>Waterbarer 100</item>
+               <item>Watergap 101</item>
+               <item>Watſon 102</item>
+               <item>Weeping croſſe 103</item>
+               <item>Whitbrooke 104</item>
+               <item>Whitehorne 104</item>
+               <item>Wolues head 104</item>
+               <item>Wridocke 105</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>YOmanſon 106</item>
+               <item>Yong Powell 106</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151888:62"/>
+         </div>
+      </back>
+   </text>
+</TEI>
